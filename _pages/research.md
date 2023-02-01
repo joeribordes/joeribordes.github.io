@@ -15,7 +15,7 @@ Many different labs are currently exploring the possibilties of [DeepLabCut](htt
 
 <img src="/images/DeepOF_1.png" width=75% height=75%>
 
-Set of supervised behavioral classifiers:
+Set of supervised behavioral classifiers:  
 <img src="/images/DeepOF_2.png" width=75% height=75%>
 
 
