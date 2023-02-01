@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student at the Max Planck institute of Psychiatry in the research group [Research Group Stress Resilience] (https://www.psych.mpg.de/schmidtlab). I obtained my Bachelor's and Master's degree at the University of Amsterdam, the Netherlands, focusing on neurobiology. 
+I am PhD student at the Max Planck institute of Psychiatry in the research group [Research Group Stress Resilience](https://www.psych.mpg.de/schmidtlab). I obtained my Bachelor's and Master's degree at the University of Amsterdam, the Netherlands, focusing on neurobiology. 
 
 My research
 ======
