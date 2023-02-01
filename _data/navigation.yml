@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: /publications/
-<!---
+<!--
   - title: "Talks"
     url: /talks/    
 
@@ -20,4 +20,5 @@ main:
     
   - title: "Guide"
     url: /markdown/
--->
+    -->
+
