@@ -15,5 +15,5 @@ Many different labs are currently exploring the possibilties of [DeepLabCut](htt
 
 ![](https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png)
 
-<img src="./images/DeepOF_1.png" alt="DeepOF">
+<img src="./images/DeepOF_1.png">
 test
