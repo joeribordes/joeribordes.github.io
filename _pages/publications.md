@@ -10,8 +10,7 @@ author_profile: true
 #### 2022
 
 von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing
-Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice *Molecular Psychiatry*
-
+Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice *Molecular Psychiatry*  
 [DOI:10.1038/s41380-022-01762-w](https://www.nature.com/articles/s41380-022-01762-w)
 
 Brix, Toksöz, Aman, Kovarova, Springer, **Bordes**, van Doeselaar, Engelhardt, Häusl, Narayan, Sterlemann, Yang, Deussing, Schmidt
