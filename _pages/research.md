@@ -14,6 +14,3 @@ My research evolves around the investigation of potential stress-related cellula
 Many different labs are currently exploring the possibilties of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) annotated pose-estimation data. Even though, the possibilities of multi-animal tracking are providing an plethora of social and individual behavior to investigate, the interpretation of the DeepLabCut output, "X,Y" coordinates over time, remains complicated. The DeepOF module can calibrate the DeepLabCut data and export directly a set of individualsitic and social behaviors, using a supervised pipeline dependent on machine learning and rule-base annotations.
 
 <img src="https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png">
-
-# ![Book logo](https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png)
-
