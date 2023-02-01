@@ -15,5 +15,5 @@ Many different labs are currently exploring the possibilties of [DeepLabCut](htt
 
 <img src="https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png">
 
-![Book logo](https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png)
+#![Book logo](https://github.com/joeribordes/joeribordes.github.io/blob/feb_edition/images/DeepOF_1.png)
 
