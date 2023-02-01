@@ -7,25 +7,9 @@ redirect_from:
   - /research
 ---
 
-{% include base_path %}
+My research evolves around the investigation of potential stress-related cellular targets using different molecular techniques, such as RNA sequencing and proteomics. In addition, an important part of my work has been to develop novel behavioral phenotyping tools, especially related to a social behavioral task, that provide a more reliable behavioral phenotype compared to the existing alternatives. We have established this by using a more naturalistic behavioral set-up and using deep learning algorithms (supervised and unsupervised analysis tools) to observe distinct social behavioral differences after chronic social defeat stress.
 
-Education
-======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Deep phenotyping of social behavior using our open-source python package [DeepOF](https://deepof.readthedocs.io/en/latest/?badge=latest)**
+Many labs are currently exploring the possibilties of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) annotated pose-estimation data. Even though, the possibilities of multi-animal tracking are providing an plethora of social and individual behavior to investigate, the interpretation of the DeepLabCut output, "X,Y" coordinates over time, remains complicated. The DeepOF module can calibrate the DeepLabCut data and export directly a set of individualsitic and social behaviors, using a supervised pipeline dependent on machine learning and rule-base annotations.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
