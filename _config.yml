@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Joeri Bordes"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "https://www.google.com/maps/place/Max+Planck+Institute+of+Psychiatry/@48.1760347,11.5694691,15z/data=!4m5!3m4!1s0x479e75d296b09d29:0xb43fcd5379e452d8!8m2!3d48.1739706!4d11.5764678"
+  bio              : "Neuroscientist using preclinical models to investigate stress-related disorders with a focus on deep phenotyping of social behavior"
+  location         : "Munich, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://joeribordes.github.io/"
+  github           : "/joeribordes"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/joeribordes"
+  twitter          : "/joeribordes"
   vine             :
   weibo            :
   xing             :
