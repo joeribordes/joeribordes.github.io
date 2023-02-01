@@ -7,7 +7,11 @@ author_profile: true
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
+
 #### 2022
+**Bordes**, Miranda, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt  
+Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress *Biorxiv*  
+[DOI: https://doi.org/10.1101/2022.06.23.497350](https://www.biorxiv.org/content/10.1101/2022.06.23.497350v1)
 
 von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing
 Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice *Molecular Psychiatry*  
