@@ -7,7 +7,7 @@ author_profile: true
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-####2022
+#### 2022
 
 von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing
 Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice *Molecular Psychiatry*
@@ -21,13 +21,13 @@ Brix, Häusl, Toksöz, **Bordes**, van Doeselaar, Engelhardt, Narayan, Springer,
 The co-chaperone FKBP51 modulates HPA axis activity and age-related maladaptation of the stress system in pituitary proopiomelanocortin cells *Psychoneuroendocrinology*
 [DOI:10.1016/j.psyneuen.2022.105670](https://www.sciencedirect.com/science/article/pii/S0306453022000117?via%3Dihub)
 
-####2021
+#### 2021
 
 Engelhardt, Tang, Elkhateib, **Bordes**, Brix, van Doeselaar, Häusl, Pöhlmann, Schraut, Yang, Chen, Deussing, Schmidt
 FKBP51 in the Oval Bed Nucleus of the Stria Terminalis Regulates Anxiety-Like Behavior. *eNeuro*
 [DOI: https://doi.org/10.1523/ENEURO.0425-21.2021](https://www.eneuro.org/content/8/6/ENEURO.0425-21.2021.long)
 
-####2020
+#### 2020
 
 van Doeselaar, Yang, **Bordes**, Brix, Engelhardt, Tang & Schmidt
 Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. *Stress*
