@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Chronic social defeat stress in female mice leads
+to sex-specific behavioral and neuroendocrine
+effects"
 collection: publications
-permalink: /publications/2015-10-01-paper-title-number-3
+permalink: /publications/20201201_van_Doeselaar_et_al
 venue: "Journal 1"
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-paperurl: http://academicpages.github.io/files/paper3.pdf
-citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
+date: 20201201
 ---
 
 ## Abstract
