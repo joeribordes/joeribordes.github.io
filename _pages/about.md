@@ -14,4 +14,8 @@ My research
 ======
 My Ph.D. research evolves around the investigation of potential stress-related cellular targets using different molecular techniques, such as RNA sequencing and proteomics. In addition, an important part of my work has been to develop novel behavioral phenotyping tools, especially related to a social behavioral task, that provide a more reliable behavioral phenotype compared to the existing alternatives. We have established this by using a more naturalistic behavioral set-up and using deep learning algorithms (supervised and unsupervised analysis tools) to observe distinct social behavioral differences after chronic social defeat stress.
 
-SAB_multi_animal_example.mp4
+
+
+
+            SAB_multi_animal_example.mp4
+          
