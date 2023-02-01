@@ -13,10 +13,10 @@ My research evolves around the investigation of potential stress-related cellula
 **Deep phenotyping of social behavior using our open-source python package [DeepOF](https://deepof.readthedocs.io/en/latest/?badge=latest)**  
 Many different labs are currently exploring the possibilties of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) annotated pose-estimation data. Even though, the possibilities of multi-animal tracking are providing an plethora of social and individual behavior to investigate, the interpretation of the DeepLabCut output, "X,Y" coordinates over time, remains complicated. The DeepOF module can calibrate the DeepLabCut data and export directly a set of individualsitic and social behaviors, using a supervised pipeline dependent on machine learning and rule-base annotations.
 
-![](../images/DeepOF_1.png)
+![](../images/DeepOF_1.png | width=100)
 
 Set of supervised behavioral classifiers:  
-![](../images/DeepOF_2.png)
+![](../images/DeepOF_2.png | width=100)
 
 
   
