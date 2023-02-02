@@ -1,8 +1,9 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
+title: "Publications"
+excerpt: "Publications"
 author_profile: true
+
 ---
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
