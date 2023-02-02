@@ -18,7 +18,7 @@ Set of supervised behavioral classifiers:
 ![](../images/DeepOF_2.png)
 
 
-In addition, an unsupervised pipeline we employed using VQVAE autoencoder models. 
+In addition, an unsupervised pipeline was employed using VQVAE autoencoder models. 
 ![](../images/DeepOF_3.png)
 
 
