@@ -16,7 +16,7 @@ Increasing resolution in stress neurobiology: from single cells to complex group
 [DOI:10.1080/10253890.2023.2186141](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
 
 ## 2022
-**Bordes**, Miranda, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
+**Bordes+**, Miranda+, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
 Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Biorxiv*  
 [DOI: https://doi.org/10.1101/2022.06.23.497350](https://www.biorxiv.org/content/10.1101/2022.06.23.497350v1)
 
