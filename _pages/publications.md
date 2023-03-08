@@ -8,6 +8,11 @@ author_profile: true
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
+## 2023
++ shared first authorship
+Miranda+, **Bordes+**, Serena Gasperoni, Juan Pablo Lopez.
+Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress*
+[DOI:10.1080/10253890.2023.2186141](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
 
 ## 2022
 **Bordes**, Miranda, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
