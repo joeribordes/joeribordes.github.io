@@ -11,7 +11,7 @@ author_profile: true
 ## 2023
 shared first authorship: "+"
 
-Miranda+, **Bordes+**, Serena Gasperoni, Juan Pablo Lopez.
+Miranda+, **Bordes+**, Gasperoni, Lopez.
 Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress*
 [DOI:10.1080/10253890.2023.2186141](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
 
