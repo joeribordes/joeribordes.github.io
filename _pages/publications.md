@@ -11,7 +11,7 @@ author_profile: true
 ## 2023
 shared first authorship: "+"
 
-Bordes, Miranda, Müller-Myhsok, Schmidt.
+**Bordes**, Miranda, Müller-Myhsok, Schmidt.
 Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews*
 [DOI:10.1016/j.neubiorev.2023.105243](https://doi.org/10.1016/j.neubiorev.2023.105243)
 
