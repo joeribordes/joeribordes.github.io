@@ -11,6 +11,10 @@ author_profile: true
 ## 2023
 shared first authorship: "+"
 
+Bordes, Miranda, Müller-Myhsok, Schmidt.
+Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews*
+[DOI:10.1016/j.neubiorev.2023.105243](https://doi.org/10.1016/j.neubiorev.2023.105243)
+
 Miranda+, **Bordes+**, Gasperoni, Lopez.
 Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress*
 [DOI:10.1080/10253890.2023.2186141](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
