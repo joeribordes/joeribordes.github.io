@@ -19,6 +19,17 @@ Miranda+, **Bordes+**, Gasperoni, Lopez.
 Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress*
 [DOI:10.1080/10253890.2023.2186141](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
 
+
+van Doeselaar, Stark, Mitra, Yang, **Bordes**, Stolwijk, Engelhardt, Kovarova, Narayan, Brix, Springer, Deussing, Lopez, Czisch, Schmidt.
+Sex-specific and opposed effects of FKBP51 in glutamatergic and GABAergic neurons: Implications for stress susceptibility and resilience. *PNAS*
+[DOI:e2300722120](https://www.pnas.org/doi/10.1073/pnas.2300722120)
+
+
+Brix , Monleon, Collado, Ederveen, Toksöz, **Bordes**, van Doeselaar, Engelhardt, Mitra, Narayan, Schmidt.
+Metabolic effects of early life stress and pre-pregnancy obesity are longlasting and sex-specific in mice. *EJN*
+[DOI:10.1111/ejn.16047](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16047)
+
+
 ## 2022
 **Bordes+**, Miranda+, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
 Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Biorxiv*  
