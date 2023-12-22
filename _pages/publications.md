@@ -8,8 +8,15 @@ author_profile: true
 
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
-## 2023
 shared first authorship: "+"
+## 2024
+
+## 2023
+
+
+**Bordes+**, Miranda+, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
+Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications*  
+[DOI: https://doi.org/10.1038/s41467-023-40040-3](https://www.nature.com/articles/s41467-023-40040-3#citeas)
 
 **Bordes**, Miranda, Müller-Myhsok, Schmidt.
 Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews*
@@ -31,10 +38,6 @@ Metabolic effects of early life stress and pre-pregnancy obesity are longlasting
 
 
 ## 2022
-**Bordes+**, Miranda+, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
-Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Biorxiv*  
-[DOI: https://doi.org/10.1101/2022.06.23.497350](https://www.biorxiv.org/content/10.1101/2022.06.23.497350v1)
-
 von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing.  
 Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice. *Molecular Psychiatry*. Review article  
 [DOI:10.1038/s41380-022-01762-w](https://www.nature.com/articles/s41380-022-01762-w)
