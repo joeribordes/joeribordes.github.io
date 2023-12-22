@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc at the research group ["Neural Circuits of Anxiety"](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) of Anna Beyeler in Bordeaux, France.
+I am a post-doc at the research group [Neural Circuits of Anxiety](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) of Anna Beyeler in Bordeaux, France.
 
 My background is behavioral neuroscience, focusing on deep phenotying of stress-induced alterations in social behavior using different in-vivo tracking tools ranging from physiological meadurements to neuronal activity data. 
 
