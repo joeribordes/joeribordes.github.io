@@ -12,9 +12,11 @@ shared first authorship: "+"
 ## 2024
 
 ## 2023
+Kos, Lopez, **Bordes**, de Donno, Dine, Brivio, Karamihalev, Luecken, Almeida-Correa, Gasperoni, Dick, Miranda, Büttner, Stoffel, Flachskamm, Theis, Schmidt, Chen.
+Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. *Science Advances*
+[DOI: 10.1126/sciadv.adj3793](https://www.science.org/doi/full/10.1126/sciadv.adj3793)
 
-
-**Bordes+**, Miranda+, Reinhardt, Brix, van Doeselaar, Engelhardt, Pütz, Agakov, Müller-Myhsok, Schmidt.  
+**Bordes+**, Miranda+, Reinhardt, Narayan, Hartmann, Newman, Brix, van Doeselaar, Engelhardt, Dillmann, Mitra, Ressler, Pütz, Agakov, Müller-Myhsok, Schmidt.  
 Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications*  
 [DOI: https://doi.org/10.1038/s41467-023-40040-3](https://www.nature.com/articles/s41467-023-40040-3#citeas)
 
