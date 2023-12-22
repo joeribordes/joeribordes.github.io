@@ -8,6 +8,8 @@ author_profile: true
 
 My research evolves around the investigation of potential stress-related cellular targets using different molecular techniques, such as RNA sequencing and proteomics. In addition, an important part of my work has been to develop novel behavioral phenotyping tools, especially related to a social behavioral task, that provide a more reliable behavioral phenotype compared to the existing alternatives. We have established this by using a more naturalistic behavioral set-up and using deep learning algorithms (supervised and unsupervised analysis tools) to observe distinct social behavioral differences after chronic social defeat stress.
 
+[Associated publication in Nature Communications](https://www.nature.com/articles/s41467-023-40040-3)
+
 
 **Deep phenotyping of social behavior using our open-source python package [DeepOF](https://deepof.readthedocs.io/en/latest/?badge=latest)**  
 Many different labs are currently exploring the possibilties of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut) annotated pose-estimation data. Even though, the possibilities of multi-animal tracking are providing an plethora of social and individual behavior to investigate, the interpretation of the DeepLabCut output, "X,Y" coordinates over time, remains complicated. The DeepOF module can calibrate the DeepLabCut data and export directly a set of individualistic- and social behaviors, using a supervised pipeline dependent on machine learning and rule-base annotations.
@@ -20,9 +22,6 @@ Set of supervised behavioral classifiers:
 
 In addition, an unsupervised pipeline was employed using VQVAE autoencoder models. 
 ![](../images/DeepOF_3.png)
-
-
-More details of this research project is [available here](https://www.biorxiv.org/content/10.1101/2022.06.23.497350v1)
   
 
 
