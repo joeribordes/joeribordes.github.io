@@ -58,6 +58,10 @@ Engelhardt, Tang, Elkhateib, **Bordes**, Brix, van Doeselaar, Häusl, Pöhlmann,
 FKBP51 in the Oval Bed Nucleus of the Stria Terminalis Regulates Anxiety-Like Behavior. *eNeuro*  
 [DOI: https://doi.org/10.1523/ENEURO.0425-21.2021](https://www.eneuro.org/content/8/6/ENEURO.0425-21.2021.long)
 
+Bonapersona, Hoijtink, RELACS Consortium: (Abbinck, Baram, Bolton, **Bordes**, Knop, Korosi, Krugers, Li, Naninck, Reemst, Ruigrok, Schmidt, Umeoka, Walker, Wang, Yam), Sarabdjitsingh, Joëls.
+Increasing the statistical power of animal experiments with historical control data. *Nature Neuroscience*
+[DOI: https://doi.org/10.1038/s41593-020-00792-3](https://www.nature.com/articles/s41593-020-00792-3)
+
 ## 2020
 
 van Doeselaar, Yang, **Bordes**, Brix, Engelhardt, Tang & Schmidt.  
