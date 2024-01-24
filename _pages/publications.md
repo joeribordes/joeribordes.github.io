@@ -20,6 +20,10 @@ Early life adversity shapes social subordination and cell type–specific transc
 Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications*  
 [DOI: https://doi.org/10.1038/s41467-023-40040-3](https://www.nature.com/articles/s41467-023-40040-3#citeas)
 
+Miranda, Bordes, Pütz, Schmidt, Müller-Myhsok.
+DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software*
+[DOI: 10.21105/joss.05394](https://joss.theoj.org/papers/10.21105/joss.05394)
+
 **Bordes**, Miranda, Müller-Myhsok, Schmidt.
 Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews*
 [DOI:10.1016/j.neubiorev.2023.105243](https://doi.org/10.1016/j.neubiorev.2023.105243)
