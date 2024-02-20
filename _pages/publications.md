@@ -10,7 +10,7 @@ author_profile: true
 
 shared first authorship: "+"
 ## 2024
-**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala glutamate metabolism. *BioRvix* [DOI: https://doi.org/10.1101/2024.02.15.580479(https://doi.org/10.1101/2024.02.15.580479)]
+**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala glutamate metabolism. *BioRvix* [DOI: https://doi.org/10.1101/2024.02.15.580479](https://doi.org/10.1101/2024.02.15.580479)
 
 
 ## 2023
