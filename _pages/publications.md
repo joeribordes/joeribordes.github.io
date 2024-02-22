@@ -12,6 +12,8 @@ shared first authorship: "+"
 ## 2024
 **Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala glutamate metabolism. *BioRvix* [DOI: https://doi.org/10.1101/2024.02.15.580479](https://doi.org/10.1101/2024.02.15.580479)
 
+Voulgaropoulou, Bastiaanssen, Alves, Viglione, Bordes, Jurek, Paribello, Sep. Editorial: An interdisciplinary perspective on resilience - A special section in Neuroscience Applied. *Neuroscience Applied* [https://doi.org/10.1016/j.nsa.2024.104044](https://doi.org/10.1016/j.nsa.2024.104044)
+
 
 ## 2023
 Kos, Lopez, **Bordes**, de Donno, Dine, Brivio, Karamihalev, Luecken, Almeida-Correa, Gasperoni, Dick, Miranda, Büttner, Stoffel, Flachskamm, Theis, Schmidt, Chen.
