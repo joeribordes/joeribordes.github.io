@@ -18,7 +18,7 @@ Selected speaker at the [ECNP Conference in Vienna, Austria](https://www.ecnp.eu
 Selected speaker at the [3rd Munich Winter Conference on Stress](https://www.psych.mpg.de/2494849/the-3rd-munich-winter-conference-on-stress)
 
 **Sept 2021** \
-Awarded the EBBS travel grant at the 2021 conference of the European Brain and Behaviour Society (EBBS) in Lausanne, Switzerland\
+Awarded the EBBS travel grant at the 2021 conference of the European Brain and Behaviour Society (EBBS) in Lausanne, Switzerland
 
 **July 2020** \
 Awarded the FENS-IBRO/PERC travel grant for the FENS 2020 Forum
