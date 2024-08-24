@@ -1,12 +1,11 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Awards & Achievements"
 excerpt: "Awards"
 author_profile: true
 
 ---
 
-# **| AWARDS & ACHIEVEMENTS |** 
 
 
 Nov 2023 &emsp; &emsp; Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.\
