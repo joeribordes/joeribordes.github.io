@@ -1,7 +1,7 @@
 ---
-permalink: /awards/
-title: "Awards & Achievements"
-excerpt: "Awards"
+permalink: /activities/
+title: "Scientific & Teaching Activities"
+excerpt: "activities"
 author_profile: true
 
 ---
