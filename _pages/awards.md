@@ -9,7 +9,7 @@ author_profile: true
 
 
 **Nov 2023** \
-Awarded highest grade (Summa cum laude) for PhD thesis and oral exam
+Awarded highest grade (Summa cum laude) for [PhD thesis](https://edoc.ub.uni-muenchen.de/32742/1/Bordes_Joeri.pdf) and oral exam
 
 **Oct 2022** \
 Selected speaker at the [ECNP Conference in Vienna, Austria](https://www.ecnp.eu/about-ecnp/history/past-ecnp-meetings/past-congresses/vienna2022#!sessiondetails/0000101220_0)
