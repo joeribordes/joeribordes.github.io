@@ -8,25 +8,23 @@ author_profile: true
 
 
 
-**Nov 2023** \
-Awarded highest grade (Summa cum laude) for [PhD thesis](https://edoc.ub.uni-muenchen.de/32742/1/Bordes_Joeri.pdf) and oral exam
+**Since 2024** \
+Member of the organization committee for the [2024 Resilience Symposium, Mainz, Germany](https://lir-mainz.de/resilience2024-program-committee-and-scientific-partners)
 
-**Oct 2022** \
-Selected speaker at the [ECNP Conference in Vienna, Austria](https://www.ecnp.eu/about-ecnp/history/past-ecnp-meetings/past-congresses/vienna2022#!sessiondetails/0000101220_0)
+**Since 2024** \
+Member of the French Neuroscience Society
 
-**March 2022** \
-Selected speaker at the [3rd Munich Winter Conference on Stress](https://www.psych.mpg.de/2494849/the-3rd-munich-winter-conference-on-stress)
+**Since 2023** \
+Active member of the European College of Neuropsychopharmacology (ECNP) [Resilience Network](https://www.ecnp.eu/research-innovation/networks-thematic-working-groups/list-ecnp-networks/resilience/), including the organization of symposia and sciencetific writing
 
-**Sept 2021** \
-Awarded the EBBS travel grant at the 2021 conference of the European Brain and Behaviour Society (EBBS) in Lausanne, Switzerland
+**Since 2018** \
+Member of the European Brain and Behaviour Society (EBBS)
 
-**July 2020** \
-Awarded the FENS-IBRO/PERC travel grant for the FENS 2020 Forum
+**Since 2018** \
+Supervision and teaching of internship students (4x MSc students)
 
-**March 2020** \
-Selected for the Neuropsychopharmacology workshop from the European College of Neuropsychopharmacology (ECNP) in Nice, France
+**2019-2023** \
+Member of the local organizing committee for the [2nd and 3rd Munich Winter Conference on Stress](https://www.psych.mpg.de/2494849/the-3rd-munich-winter-conference-on-stress)
 
-**Sept 2019** \
-Selected speaker and awarded the European Brain and Behaviour Society (EBBS) travel grant at the 2019 EBBS conference in Praque, Czech Republic
 
 
