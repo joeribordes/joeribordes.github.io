@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-Nov 2023 &emsp; &emsp; Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.\
+Nov 2023 &emsp; &emsp; Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.\\
 Oct 2022 &emsp; &emsp;	Selected speaker at the ECNP Conference in Vienna, Austria. (link)\
 March 2022 &emsp; &emsp;	Selected speaker at the 3rd Munich Winter Conference on Stress, (link)\
 Sept 2021 &emsp; &emsp;	Awarded the EBBS travel grant at the 2021 conference of the European Brain and Behaviour Society (EBBS) in Lausanne, Switzerland\
