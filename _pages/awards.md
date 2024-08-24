@@ -6,8 +6,7 @@ author_profile: true
 
 ---
 
-**| AWARDS & ACHIEVEMENTS |**
-
+# **| AWARDS & ACHIEVEMENTS |**
 
 Nov 2023	     Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.
 
