@@ -9,7 +9,7 @@ author_profile: true
 # **| AWARDS & ACHIEVEMENTS |** 
 
 
-Nov 2023 emsp Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.
+Nov 2023 &emsp; Awarded highest grade (Summa cum laude) for PhD thesis and oral exam.
 
 
 Oct 2022	Selected speaker at the ECNP Conference in Vienna, Austria. (link)
