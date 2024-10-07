@@ -6,7 +6,8 @@ author_profile: true
 
 ---
 
-
+**Sept 2024** \
+Best poster award at the [10th International Symposium on Resilience Research](https://lir-mainz.de/symposium-2024)
 
 **Nov 2023** \
 Awarded highest grade (Summa cum laude) for [PhD thesis](https://edoc.ub.uni-muenchen.de/32742/1/Bordes_Joeri.pdf) and oral exam
