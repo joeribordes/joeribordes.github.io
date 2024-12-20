@@ -10,11 +10,11 @@ author_profile: true
 
 shared first authorship: "+"
 ## 2024
+**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala and hippocampal purine and glutamate metabolism. *Communications biology* [Link](https://www.nature.com/articles/s42003-024-07396-8)
+
 Kovarova, **Bordes**, Mitra, Narayan, Springer, Brix, Deussing, Schmidt. Deep phenotyping reveals CRH and FKBP51-dependent behavioral profiles following chronic social stress exposure in male mice. *Neuropsychopharmacology* [Link](https://doi.org/10.1038/s41386-024-02008-9)
 
 Albayrak, de Fátima da Silva Vaz, **Bordes**, Ünlü, Sep, Vinkers, Pinto, Yapıcı Eser. Translational models of stress and resilience: An applied neuroscience methodology review. *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104064)
-
-**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala glutamate metabolism. *BioRvix* [Link](https://doi.org/10.1101/2024.02.15.580479)
 
 Voulgaropoulou, Bastiaanssen, Alves, Viglione, **Bordes**, Jurek, Paribello, Sep. Editorial: An interdisciplinary perspective on resilience - A special section in Neuroscience Applied. *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104044)
 
