@@ -26,7 +26,7 @@ Early life adversity shapes social subordination and cell type–specific transc
 
 **Bordes+**, Miranda+, Reinhardt, Narayan, Hartmann, Newman, Brix, van Doeselaar, Engelhardt, Dillmann, Mitra, Ressler, Pütz, Agakov, Müller-Myhsok, Schmidt.  
 Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications*  
-[Link](https://www.nature.com/articles/s41467-023-40040-3#citeas)
+[Link](https://www.nature.com/articles/s41467-023-40040-3)
 
 Miranda, **Bordes**, Pütz, Schmidt, Müller-Myhsok.
 DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software*
