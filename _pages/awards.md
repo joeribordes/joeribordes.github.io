@@ -5,6 +5,8 @@ excerpt: "Awards"
 author_profile: true
 
 ---
+**January 2025** \
+Received the Junior Investigator Award at the [7th Annual Swiss Stress Meeting](https://www.stressnetwork.ch/events/7th-annual-meeting-in-bern)
 
 **Sept 2024** \
 Best poster award at the [10th International Symposium on Resilience Research](https://lir-mainz.de/symposium-2024)
