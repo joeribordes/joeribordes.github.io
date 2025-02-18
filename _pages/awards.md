@@ -5,7 +5,7 @@ excerpt: "Awards"
 author_profile: true
 
 ---
-**January 2025** \
+**February 2025** \
 Received the Junior Investigator Award at the [7th Annual Swiss Stress Meeting](https://www.stressnetwork.ch/events/7th-annual-meeting-in-bern)
 
 **Sept 2024** \
