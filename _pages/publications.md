@@ -9,28 +9,29 @@ author_profile: true
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 shared first authorship: "+"
+
+## 2025
+Bittar, Bordes, Nicolas, Calhoon, Beyeler (2025) Chapter 30. Pre-Clinical Models of Emotional Dysregulations. Handbook of Human Affective Neuroscience, 2nd edition, In press
+
+van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, **Bordes**, Narayan, Deussing, Czisch, Knauer-Arloth, Eder, Lopez, Ballmann, Rammes, Harbich, Schmidt. (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. Nature Communications (link)
+
+
 ## 2024
-**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala and hippocampal purine and glutamate metabolism. *Communications biology* [Link](https://www.nature.com/articles/s42003-024-07396-8)
+**Bordes**, Bajaj, Miranda, van Doeselaar, Brix, Narayan, Yang, Mitra, Kovarova, Springer, Kleigrewe, Müller-Myhsok, Gassen, Schmidt. Sex-specific fear acquisition following early life stress is linked to amygdala and hippocampal purine and glutamate metabolism. (2024) *Communications biology* [Link](https://www.nature.com/articles/s42003-024-07396-8)
 
-Kovarova, **Bordes**, Mitra, Narayan, Springer, Brix, Deussing, Schmidt. Deep phenotyping reveals CRH and FKBP51-dependent behavioral profiles following chronic social stress exposure in male mice. *Neuropsychopharmacology* [Link](https://doi.org/10.1038/s41386-024-02008-9)
+Kovarova, **Bordes**, Mitra, Narayan, Springer, Brix, Deussing, Schmidt. Deep phenotyping reveals CRH and FKBP51-dependent behavioral profiles following chronic social stress exposure in male mice. (2024) *Neuropsychopharmacology* [Link](https://doi.org/10.1038/s41386-024-02008-9)
 
-Albayrak, de Fátima da Silva Vaz, **Bordes**, Ünlü, Sep, Vinkers, Pinto, Yapıcı Eser. Translational models of stress and resilience: An applied neuroscience methodology review. *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104064)
+Albayrak, de Fátima da Silva Vaz, **Bordes**, Ünlü, Sep, Vinkers, Pinto, Yapıcı Eser. Translational models of stress and resilience: An applied neuroscience methodology review. (2024) *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104064)
 
-Voulgaropoulou, Bastiaanssen, Alves, Viglione, **Bordes**, Jurek, Paribello, Sep. Editorial: An interdisciplinary perspective on resilience - A special section in Neuroscience Applied. *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104044)
+Voulgaropoulou, Bastiaanssen, Alves, Viglione, **Bordes**, Jurek, Paribello, Sep. Editorial: An interdisciplinary perspective on resilience - A special section in Neuroscience Applied. (2024) *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104044)
 
 
 ## 2023
-Kos, Lopez, **Bordes**, de Donno, Dine, Brivio, Karamihalev, Luecken, Almeida-Correa, Gasperoni, Dick, Miranda, Büttner, Stoffel, Flachskamm, Theis, Schmidt, Chen.
-Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. *Science Advances*
-[Link](https://www.science.org/doi/full/10.1126/sciadv.adj3793)
+Kos, Lopez, **Bordes**, de Donno, Dine, Brivio, Karamihalev, Luecken, Almeida-Correa, Gasperoni, Dick, Miranda, Büttner, Stoffel, Flachskamm, Theis, Schmidt, Chen. Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. (2023) *Science Advances* [Link](https://www.science.org/doi/full/10.1126/sciadv.adj3793)
 
-**Bordes+**, Miranda+, Reinhardt, Narayan, Hartmann, Newman, Brix, van Doeselaar, Engelhardt, Dillmann, Mitra, Ressler, Pütz, Agakov, Müller-Myhsok, Schmidt.  
-Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications*  
-[Link](https://www.nature.com/articles/s41467-023-40040-3)
+**Bordes+**, Miranda+, Reinhardt, Narayan, Hartmann, Newman, Brix, van Doeselaar, Engelhardt, Dillmann, Mitra, Ressler, Pütz, Agakov, Müller-Myhsok, Schmidt. Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. (2023) *Nature Communications* [Link](https://www.nature.com/articles/s41467-023-40040-3)
 
-Miranda, **Bordes**, Pütz, Schmidt, Müller-Myhsok.
-DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software*
-[Link](https://joss.theoj.org/papers/10.21105/joss.05394)
+Miranda, **Bordes**, Pütz, Schmidt, Müller-Myhsok. DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software* [Link](https://joss.theoj.org/papers/10.21105/joss.05394)
 
 **Bordes**, Miranda, Müller-Myhsok, Schmidt.
 Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews*
