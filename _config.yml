@@ -6,6 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+repository               : joeribordes/joeribordes.github.io
+google_scholar_stats_use_cdn : true
+
+
+# Site Settings
 locale                   : "en-US"
 title                    : "Joeri Bordes, PhD"
 title_separator          : "-"
@@ -70,6 +75,8 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
+# google analytics
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # Analytics
 analytics:
