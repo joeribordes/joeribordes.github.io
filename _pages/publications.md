@@ -7,9 +7,6 @@ author_profile: true
 ---
 {% if site.google_scholar_stats_use_cdn %} {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %} {% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} {% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-
-%<a href='https://scholar.google.com/citations?user=T6pswigAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 shared first authorship: "+"
