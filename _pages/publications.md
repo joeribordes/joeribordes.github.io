@@ -10,6 +10,8 @@ author_profile: true
 
 shared first authorship: "+"
 
+<span class='show_paper_citations' data='T6pswigAAAAJ:2osOgNQ5qMEC'></span>
+
 ## 2025
 Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025) Chapter 30. Pre-Clinical Models of Emotional Dysregulations. Handbook of Human Affective Neuroscience, 2nd edition, In press
 
