@@ -5,6 +5,9 @@ excerpt: "Awards"
 author_profile: true
 
 ---
+** April 2025** \
+Selected to be part of the Early career academy of the [European College of Neuropsychopharmacology](https://www.ecnp.eu/early-career/ecnp-career-academy/)
+
 **February 2025** \
 Received the Junior Investigator Award at the [7th Annual Swiss Stress Meeting](https://www.stressnetwork.ch/events/7th-annual-meeting-in-bern)
 
