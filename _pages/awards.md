@@ -5,7 +5,7 @@ excerpt: "Awards"
 author_profile: true
 
 ---
-** April 2025** \
+**April 2025** \
 Selected to be part of the Early career academy of the [European College of Neuropsychopharmacology](https://www.ecnp.eu/early-career/ecnp-career-academy/)
 
 **February 2025** \
