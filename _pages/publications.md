@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 shared first authorship: "+"
 
 ## 2025
-Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025) Chapter 31. Pre-Clinical Models of Emotional Dysregulations. *Handbook of Human Affective Neuroscience, 2nd edition*, In press [Link](https://www.cambridge.org/us/universitypress/subjects/psychology/cognition/cambridge-handbook-human-affective-neuroscience-2nd-edition?format=PB&isbn=9781009342926)
+Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025). Chapter 31: Preclinical Models of Emotional Dysregulations in Animals. In: Armony J, Vuilleumier P, eds. *The Cambridge Handbook of Human Affective Neuroscience*. Cambridge Handbooks in Psychology. Cambridge University Press; 2025:618-638. [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/preclinical-models-of-emotional-dysregulations-in-animals/11E422034B11BA423A077A1D1FDE7DC0)
 
 van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, **Bordes**, Narayan, Deussing, Czisch, Knauer-Arloth, Eder, Lopez, Ballmann, Rammes, Harbich, Schmidt. (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. *Nature Communications* [link](https://www.nature.com/articles/s41467-025-57952-x)
 
