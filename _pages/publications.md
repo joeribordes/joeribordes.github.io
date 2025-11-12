@@ -12,12 +12,12 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 shared first authorship: "+"
 
 ## 2025
-Yang, Narayan, **Bordes**, van Doeselaar, de Donno, Eder, Menegaz, Huettl, Brix, Mitra, Springer, Müller, Chen, Deussing, Lopez, Schmidt. (2025) Mineralocorticoid receptor in glutamatergic neurons modulates anxiety exclusively in male mice via regulation of the actin bundling factor FAM107a. *Biological Psychiatry Global Open Science* [link](https://www.sciencedirect.com/science/article/pii/S2667174325002058?via%3Dihub)
+Yang, Narayan, **Bordes**, van Doeselaar, de Donno, Eder, Menegaz, Huettl, Brix, Mitra, Springer, Müller, Chen, Deussing, Lopez, Schmidt. (2025) Mineralocorticoid receptor in glutamatergic neurons modulates anxiety exclusively in male mice via regulation of the actin bundling factor FAM107a. *Biological Psychiatry Global Open Science* [Link](https://www.sciencedirect.com/science/article/pii/S2667174325002058?via%3Dihub)
 
 
 Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025). Chapter 31: Preclinical Models of Emotional Dysregulations in Animals. In: Armony J, Vuilleumier P, eds. *The Cambridge Handbook of Human Affective Neuroscience*. Cambridge Handbooks in Psychology. Cambridge University Press. [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/preclinical-models-of-emotional-dysregulations-in-animals/11E422034B11BA423A077A1D1FDE7DC0)
 
-van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, **Bordes**, Narayan, Deussing, Czisch, Knauer-Arloth, Eder, Lopez, Ballmann, Rammes, Harbich, Schmidt. (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. *Nature Communications* [link](https://www.nature.com/articles/s41467-025-57952-x)
+van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, **Bordes**, Narayan, Deussing, Czisch, Knauer-Arloth, Eder, Lopez, Ballmann, Rammes, Harbich, Schmidt. (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. *Nature Communications* [Link](https://www.nature.com/articles/s41467-025-57952-x)
 
 
 ## 2024
