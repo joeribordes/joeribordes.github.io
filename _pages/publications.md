@@ -11,7 +11,7 @@ shared first authorship: "*"
 
 PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao), last update: 13/12/2025
 
-**Unpublished, preprints**
+**Submitted, preprints**
 <!-- 17. **Bordes**, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular %cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]-->
 
 16. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1) [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
