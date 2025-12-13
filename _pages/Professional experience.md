@@ -40,7 +40,7 @@ The effects of mineralocorticoid receptor overexpression on chronic stress in mi
 ## Education
 
 **10/2018–11/2023** \
-PhD degree in Neuroscience (*Summa cum laude*, highest distinction) ([thesis](https://edoc.ub.uni-muenchen.de/32742/)) \
+PhD degree in Neuroscience (*Summa cum laude*, highest distinction) ([Thesis](https://edoc.ub.uni-muenchen.de/32742/)) \
 Ludwig-Maximilians-University, Faculty of Biology; Max Planck Institute of Psychiatry, Munich, Germany
 
 **09/2016–09/2018** \
