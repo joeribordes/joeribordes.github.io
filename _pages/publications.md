@@ -30,15 +30,15 @@ PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://sch
 
 10. Miranda, Bordes, Pütz, Schmidt, Müller-Myhsok (2023) DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software* [link] [This research article presents "DeepOF," an open-source Python package designed to analyze social behavior using AI and machine learning tools for both supervised and unsupervised classification]
 
-9. Bordes*, Miranda*, Reinhardt, …, 11 authors …, Müller-Myhsok, Schmidt (2023) Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications* [link] [This research article utilizes the DeepOF open-source Python package, which employs machine learning to automate motion tracking and analyze stress-induced social behavior in freely interacting mice, enhancing precision and standardization in behavioral classification. The study demonstrates that DeepOF analysis reveals a more pronounced and robust stress-induced social behavioral phenotype]
+9. Bordes*, Miranda*, Reinhardt, …, 11 authors …, Müller-Myhsok, Schmidt (2023) Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications* [link](https://www.nature.com/articles/s41467-023-40040-3) [This research article utilizes the DeepOF open-source Python package, which employs machine learning to automate motion tracking and analyze stress-induced social behavior in freely interacting mice, enhancing precision and standardization in behavioral classification. The study demonstrates that DeepOF analysis reveals a more pronounced and robust stress-induced social behavioral phenotype]
 
-8. Kos, Lopez, Bordes, …, 13 authors …, Schmidt, Chen (2023) Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. *Science Advances* [link] [This research article employs advanced behavioral analysis tools and single-cell sequencing to investigate social behavior and hierarchy]
+8. Kos, Lopez, Bordes, …, 13 authors …, Schmidt, Chen (2023) Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. *Science Advances* [link](https://www.science.org/doi/full/10.1126/sciadv.adj3793) [This research article employs advanced behavioral analysis tools and single-cell sequencing to investigate social behavior and hierarchy]
 
 7. van Doeselaar, Stark, Mitra, Yang, Bordes, …, 7 authors …, Lopez, Czisch, Schmidt (2023) Sex-specific and opposed effects of FKBP51 in glutamatergic and GABAergic neurons: Implications for stress susceptibility and resilience. *PNAS* [link](https://www.pnas.org/doi/10.1073/pnas.2300722120) [This research article emphasizes the impact of early life stress on cognitive function and brain structure volume, as assessed through mouse MRI]
 
 6. Brix, Monleon, Collado, Ederveen, Toksöz, Bordes, van Doeselaar, Engelhardt, Mitra, Narayan, Schmidt (2023) Metabolic effects of early life stress and pre-pregnancy obesity are longlasting and sex-specific in mice. *European Journal of Neuroscience* [link](https://onlinelibrary.wiley.com/doi/full/10.1111/ejn.16047) [This research article finds that early life stress affects male body weight long-term, while females adapt, possibly by stabilizing their microbiota]
 
-5. Brix, Toksöz, Aman, Kovarova, Springer, Bordes, …, 6 authors …, Deussing, Schmidt (2022) Contribution of the co-chaperone FKBP51 in the ventromedial hypothalamus to metabolic homeostasis in male and female mice. *Molecular Metabolism* [link][https://www.sciencedirect.com/science/article/pii/S221287782200148X?via%3Dihub] [This research article shows that FKBP51 manipulation in SF1-expressing VMH cells has a mild impact on metabolism, indicating its subsidiary role compared to broader MBH-wide changes]
+5. Brix, Toksöz, Aman, Kovarova, Springer, Bordes, …, 6 authors …, Deussing, Schmidt (2022) Contribution of the co-chaperone FKBP51 in the ventromedial hypothalamus to metabolic homeostasis in male and female mice. *Molecular Metabolism* [link](https://www.sciencedirect.com/science/article/pii/S221287782200148X?via%3Dihub) [This research article shows that FKBP51 manipulation in SF1-expressing VMH cells has a mild impact on metabolism, indicating its subsidiary role compared to broader MBH-wide changes]
 
 4. Brix, Häusl, Toksöz, Bordes, …, 6 authors …, Chen, Schmidt (2022) The co-chaperone FKBP51 modulates HPA axis activity and age-related maladaptation of the stress system in pituitary proopiomelanocortin cells. *Psychoneuroendocrinology* [link](https://www.sciencedirect.com/science/article/pii/S0306453022000117?via%3Dihub) [This research article shows that FKBP51 deficiency in POMC-expressing pituitary cells enhances HPA axis negative feedback and protects against age-related disruptions in corticosterone rhythms]
 
@@ -72,22 +72,15 @@ Albayrak, de Fátima da Silva Vaz, **Bordes**, Ünlü, Sep, Vinkers, Pinto, Yap�
 Voulgaropoulou, Bastiaanssen, Alves, Viglione, **Bordes**, Jurek, Paribello, Sep. (2024) Editorial: An interdisciplinary perspective on resilience - A special section in Neuroscience Applied. *Neuroscience Applied* [Link](https://doi.org/10.1016/j.nsa.2024.104044)
 
 
-## 2023
-Kos, Lopez, **Bordes**, de Donno, Dine, Brivio, Karamihalev, Luecken, Almeida-Correa, Gasperoni, Dick, Miranda, Büttner, Stoffel, Flachskamm, Theis, Schmidt, Chen. (2023) Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. *Science Advances* [Link](https://www.science.org/doi/full/10.1126/sciadv.adj3793)
 
-**Bordes+**, Miranda+, Reinhardt, Narayan, Hartmann, Newman, Brix, van Doeselaar, Engelhardt, Dillmann, Mitra, Ressler, Pütz, Agakov, Müller-Myhsok, Schmidt. (2023) Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. *Nature Communications* [Link](https://www.nature.com/articles/s41467-023-40040-3)
+
 
 Miranda, **Bordes**, Pütz, Schmidt, Müller-Myhsok. (2023) DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. *Journal of Open Source Software* [Link](https://joss.theoj.org/papers/10.21105/joss.05394)
+
 
 **Bordes**, Miranda, Müller-Myhsok, Schmidt.(2023) Advancing social behavioral neuroscience by integrating ethology and comparative psychology methods through machine learning. *Neuroscience & Biobehavioral Reviews* [Link](https://doi.org/10.1016/j.neubiorev.2023.105243)
 
 Miranda+, **Bordes+**, Gasperoni, Lopez. (2023) Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress* [Link](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141)
-
-
-
-
-
-
 ## 2022
 von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing. (2022) Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice. *Molecular Psychiatry*. Review article  
 [Link](https://www.nature.com/articles/s41380-022-01762-w)
