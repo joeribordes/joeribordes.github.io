@@ -1,38 +1,39 @@
 ---
+layout: single
 permalink: /awards/
 title: "Awards & Achievements"
 excerpt: "Awards"
 author_profile: true
-
 ---
-**April 2025** \
-Selected to be part of the Early career academy of the [European College of Neuropsychopharmacology](https://www.ecnp.eu/early-career/ecnp-career-academy/)
 
-**February 2025** \
+## Prizes and awards
+
+**2025–2030** \
+Selected member of the [ECNP Early Career Academy](https://www.ecnp.eu/early-career/ecnp-career-academy/)
+
+**02/2025** \
 Received the Junior Investigator Award at the [7th Annual Swiss Stress Meeting](https://www.stressnetwork.ch/events/7th-annual-meeting-in-bern)
 
-**Sept 2024** \
+**09/2024** \
 Best poster award at the [10th International Symposium on Resilience Research](https://lir-mainz.de/symposium-2024)
 
-**Nov 2023** \
-Awarded highest grade (Summa cum laude) for [PhD thesis](https://edoc.ub.uni-muenchen.de/32742/1/Bordes_Joeri.pdf) and oral exam
+**11/2023** \
+Awarded highest grade (*Summa cum laude*) for [PhD thesis](https://edoc.ub.uni-muenchen.de/32742/1/Bordes_Joeri.pdf) and oral exam
 
-**Oct 2022** \
+**10/2022** \
 Selected speaker at the [ECNP Conference in Vienna, Austria](https://www.ecnp.eu/about-ecnp/history/past-ecnp-meetings/past-congresses/vienna2022#!sessiondetails/0000101220_0)
 
-**March 2022** \
+**03/2022** \
 Selected speaker at the [3rd Munich Winter Conference on Stress](https://www.psych.mpg.de/2494849/the-3rd-munich-winter-conference-on-stress)
 
-**Sept 2021** \
+**09/2021** \
 Awarded the EBBS travel grant at the 2021 conference of the European Brain and Behaviour Society (EBBS) in Lausanne, Switzerland
 
-**July 2020** \
+**07/2020** \
 Awarded the FENS-IBRO/PERC travel grant for the FENS 2020 Forum
 
-**March 2020** \
+**03/2020** \
 Selected for the Neuropsychopharmacology workshop from the European College of Neuropsychopharmacology (ECNP) in Nice, France
 
-**Sept 2019** \
-Selected speaker and awarded the European Brain and Behaviour Society (EBBS) travel grant at the 2019 EBBS conference in Praque, Czech Republic
-
-
+**09/2019** \
+Selected speaker and awarded the European Brain and Behaviour Society (EBBS) travel grant at the 2019 EBBS conference in Prague, Czech Republic
