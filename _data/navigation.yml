@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
     
+  - title: "Professional experience"
+    url: /professional-experience/
+    
   - title: "Publications"
     url: /publications/
     
@@ -30,5 +33,3 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
- 
-
