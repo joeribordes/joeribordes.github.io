@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -14,8 +15,9 @@ Throughout my career, I have consistently demonstrated a strong ability to lead 
 
 Beyond my academic and professional achievements, I am also a serious triathlete and runner. I have successfully completed several marathons and Ironman races, embodying the same discipline, perseverance, and commitment in my athletic pursuits as I do in my scientific career. These experiences have honed my physical and mental endurance, reinforcing my ability to tackle challenges with resilience and determination.
 
-Work experience
+Professional experience
 ======
+
 I am a post-doc at the research group [Neural Circuits of Anxiety](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) at the Neurocentre Magendie - French Institute of Health (INSERM) of Anna Beyeler in Bordeaux, France.
 
 My background is behavioral neuroscience, focusing on deep phenotying of stress-induced alterations in social behavior using different in-vivo tracking tools ranging from physiological meadurements to neuronal activity data. 
@@ -27,6 +29,3 @@ I have obtained my Bachelor's and Master's degree at the University of Amsterdam
 My research
 ======
 My research evolves around the investigation of potential stress-related cellular targets using different molecular techniques, such as RNA sequencing and proteomics. In addition, an important part of my work has been to develop novel behavioral phenotyping tools, especially related to a social behavioral task, that provide a more reliable behavioral phenotype compared to the existing alternatives. We have established this by using a more naturalistic behavioral set-up and using deep learning algorithms (supervised and unsupervised analysis tools) to observe distinct social behavioral differences after chronic social defeat stress. [Read more](https://joeribordes.github.io/research/)
-
-            
-          
