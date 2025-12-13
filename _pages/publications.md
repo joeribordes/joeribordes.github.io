@@ -11,15 +11,14 @@ shared first authorship: "*"
 
 PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao), last update: 13/12/2025
 
-
-**14 Research Articles (2 as 1st author) 2 submitted, 1 in preparation**
-
-17. **Bordes**, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]
+**Unpublished, preprints**
+#17. **Bordes**, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular #cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]
 
 16. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1) [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
 
 15. **Bordes** *, Ji*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Submitted* [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
 
+**14 Research Articles (2 as 1st author) 2 submitted, 1 in preparation**
 14. Yang, Narayan, **Bordes**, …, 11 authors…, Lopez, Schmidt (2025) Mineralocorticoid receptor in glutamatergic neurons modulates anxiety exclusively in male mice via regulation of the actin bundling factor FAM107a. *Biological Psychiatry Global Open Science* [link](https://www.sciencedirect.com/science/article/pii/S2667174325002058?via%3Dihub) [This work defines a cell-type–specific Mineralocorticoid Receptor pathway for stress-related behavior: male-selective baseline anxiety, associated hippocampal alterations, and a causal Fam107a mechanism capable of reversing the behavioral deficit]
 
 13. van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, **Bordes**, …, 8 authors …, Schmidt (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. *Nature Communications* [link](https://www.nature.com/articles/s41467-025-57952-x) [This research article highlights the importance of cell-type specific genetic stress risk markers on the early life stressed-induced behavioral alterations and brain genetic profile]
