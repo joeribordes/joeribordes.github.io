@@ -15,7 +15,7 @@ Throughout my career, I have consistently demonstrated a strong ability to lead 
 
 Beyond my academic and professional achievements, I am also a serious triathlete and runner. I have successfully completed several marathons and Ironman races, embodying the same discipline, perseverance, and commitment in my athletic pursuits as I do in my scientific career. These experiences have honed my physical and mental endurance, reinforcing my ability to tackle challenges with resilience and determination.
 
-Professional experience
+[Professional experience](/professional-experience/)
 ======
 
 I am a post-doc at the research group [Neural Circuits of Anxiety](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) at the Neurocentre Magendie - French Institute of Health (INSERM) of Anna Beyeler in Bordeaux, France.
@@ -26,6 +26,6 @@ I obtained my PhD under the supervision of Mathias V. Schmidt at the Max Planck 
 
 I have obtained my Bachelor's and Master's degree at the University of Amsterdam, the Netherlands, focusing on the pathophyisology of the brain using rodent models.
 
-My research
+[My research](https://joeribordes.github.io/research/)
 ======
 My research evolves around the investigation of potential stress-related cellular targets using different molecular techniques, such as RNA sequencing and proteomics. In addition, an important part of my work has been to develop novel behavioral phenotyping tools, especially related to a social behavioral task, that provide a more reliable behavioral phenotype compared to the existing alternatives. We have established this by using a more naturalistic behavioral set-up and using deep learning algorithms (supervised and unsupervised analysis tools) to observe distinct social behavioral differences after chronic social defeat stress. [Read more](https://joeribordes.github.io/research/)
