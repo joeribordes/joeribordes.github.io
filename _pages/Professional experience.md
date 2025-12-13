@@ -6,8 +6,6 @@ excerpt: "Professional experience"
 author_profile: true
 ---
 
-## Professional experience
-
 **Starting 01/2026** \
 Postdoctoral researcher, advised by Prof. Dr. Camilla Bellone ([Bellone lab](https://neurocenter-unige.ch/research-groups/synaptic-brain-dysfunctions/)) \
 University of Geneva, Geneva, Switzerland \
