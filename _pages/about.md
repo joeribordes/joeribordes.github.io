@@ -18,15 +18,7 @@ Beyond my academic and professional achievements, I am also a serious triathlete
 [Professional experience](/professional-experience/)
 ======
 
-I am a post-doc at the research group [Neural Circuits of Anxiety](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) at the Neurocentre Magendie - French Institute of Health (INSERM) of Anna Beyeler in Bordeaux, France.
-
-My background is behavioral neuroscience, focusing on deep phenotying of stress-induced alterations in social behavior using different in-vivo tracking tools ranging from physiological meadurements to neuronal activity data. 
-
-I obtained my PhD under the supervision of Mathias V. Schmidt at the Max Planck institute of Psychiatry in Munich, Germany at the [Research Group Stress Resilience](https://www.psych.mpg.de/schmidtlab).
-
-I have obtained my Bachelor's and Master's degree at the University of Amsterdam, the Netherlands, focusing on the pathophyisology of the brain using rodent models.
-
-[Read more about my professional experience](/professional-experience/)
+I am a post-doc at the research group [Neural Circuits of Anxiety](https://neurocentre-magendie.fr/recherche/Beyeler/descriptionTeam.php) at the Neurocentre Magendie - French Institute of Health (INSERM) of Anna Beyeler in Bordeaux, France. My background is behavioral neuroscience, focusing on deep phenotying of stress-induced alterations in social behavior using different in-vivo tracking tools ranging from physiological meadurements to neuronal activity data. I obtained my PhD under the supervision of Mathias V. Schmidt at the Max Planck institute of Psychiatry in Munich, Germany at the [Research Group Stress Resilience](https://www.psych.mpg.de/schmidtlab). I have obtained my Bachelor's and Master's degree at the University of Amsterdam, the Netherlands, focusing on the pathophyisology of the brain using rodent models. [Read more about my professional experience](/professional-experience/)
 
 [My research](https://joeribordes.github.io/research/)
 ======
