@@ -5,8 +5,6 @@ excerpt: "Publications"
 author_profile: true
 
 ---
-{% if site.google_scholar_stats_use_cdn %} {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %} {% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} {% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 shared first authorship: "*"
@@ -17,22 +15,38 @@ PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://sch
 **14 Research Articles (2 as 1st author) 2 submitted, 1 in preparation**
 
 17. Bordes, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]
+
 16. Bordes, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. Submitted. [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
+
 15. Bordes*, Ji*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. Submitted. [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
+
 14. Yang, Narayan, Bordes, …, 11 authors…, Lopez, Schmidt (2025) Mineralocorticoid receptor in glutamatergic neurons modulates anxiety exclusively in male mice via regulation of the actin bundling factor FAM107a. Biological Psychiatry Global Open Science. (link) [This work defines a cell-type–specific Mineralocorticoid Receptor pathway for stress-related behavior: male-selective baseline anxiety, associated hippocampal alterations, and a causal Fam107a mechanism capable of reversing the behavioral deficit]
+
 13. van Doeselaar, Abromeit, Stark, Menegaz, Mitra, Yang, Rehawi, Huettl, Bordes, …, 8 authors …, Schmidt (2025) FKBP51 in glutamatergic forebrain neurons promotes early life stress inoculation in female mice. Nature Communications (link) [This research article highlights the importance of cell-type specific genetic stress risk markers on the early life stressed-induced behavioral alterations and brain genetic profile]
+
 12. Bordes, Bajaj, Miranda, …, 8 authors …, Gassen, Schmidt (2024) Sex-specific fear acquisition following early life stress is linked to amygdala and hippocampal purine and glutamate metabolism. Communications Biology (link) [This research article shows that early life stress disrupts the HPA axis and machine-learning identified fear memory in a sex-specific manner, revealing differences in brain metabolism]
+
 11. Kovarova, Bordes, Mitra, Narayan, Springer, Brix, Deussing, Schmidt (2024) Deep phenotyping reveals CRH and FKBP51-dependent behavioral profiles following chronic social stress exposure in male mice. Neuropsychopharmacology (link) [This research article highlights the importance of genetic stress risk markers on the social behavioral profile following chronic stress exposure]
+
 10. Miranda, Bordes, Pütz, Schmidt, Müller-Myhsok (2023) DeepOF: a Python package for supervised and unsupervised pattern recognition in mice motion tracking data. Journal of Open Source Software (link) [This research article presents "DeepOF," an open-source Python package designed to analyze social behavior using AI and machine learning tools for both supervised and unsupervised classification]
+
 9. Bordes*, Miranda*, Reinhardt, …, 11 authors …, Müller-Myhsok, Schmidt (2023) Automatically annotated motion tracking identifies a distinct social behavioral profile following chronic social defeat stress. Nature Communications (link) [This research article utilizes the DeepOF open-source Python package, which employs machine learning to automate motion tracking and analyze stress-induced social behavior in freely interacting mice, enhancing precision and standardization in behavioral classification. The study demonstrates that DeepOF analysis reveals a more pronounced and robust stress-induced social behavioral phenotype]
+
 8. Kos, Lopez, Bordes, …, 13 authors …, Schmidt, Chen (2023) Early life adversity shapes social subordination and cell type–specific transcriptomic patterning in the ventral hippocampus. Science Advances (link) [This research article employs advanced behavioral analysis tools and single-cell sequencing to investigate social behavior and hierarchy]
+
 7. van Doeselaar, Stark, Mitra, Yang, Bordes, …, 7 authors …, Lopez, Czisch, Schmidt (2023) Sex-specific and opposed effects of FKBP51 in glutamatergic and GABAergic neurons: Implications for stress susceptibility and resilience. PNAS (link) [This research article emphasizes the impact of early life stress on cognitive function and brain structure volume, as assessed through mouse MRI]
+
 6. Brix, Monleon, Collado, Ederveen, Toksöz, Bordes, van Doeselaar, Engelhardt, Mitra, Narayan, Schmidt (2023) Metabolic effects of early life stress and pre-pregnancy obesity are longlasting and sex-specific in mice. European Journal of Neuroscience (link) [This research article finds that early life stress affects male body weight long-term, while females adapt, possibly by stabilizing their microbiota]
+
 5. Brix, Toksöz, Aman, Kovarova, Springer, Bordes, …, 6 authors …, Deussing, Schmidt (2022) Contribution of the co-chaperone FKBP51 in the ventromedial hypothalamus to metabolic homeostasis in male and female mice. Molecular Metabolism (link) [This research article shows that FKBP51 manipulation in SF1-expressing VMH cells has a mild impact on metabolism, indicating its subsidiary role compared to broader MBH-wide changes]
+
 4. Brix, Häusl, Toksöz, Bordes, …, 6 authors …, Chen, Schmidt (2022) The co-chaperone FKBP51 modulates HPA axis activity and age-related maladaptation of the stress system in pituitary proopiomelanocortin cells. Psychoneuroendocrinology (link) [This research article shows that FKBP51 deficiency in POMC-expressing pituitary cells enhances HPA axis negative feedback and protects against age-related disruptions in corticosterone rhythms]
+
 3. Engelhardt, Tang, Elkhateib, Bordes, …, 7 authors …, Deussing, Schmidt (2021) FKBP51 in the Oval Bed Nucleus of the Stria Terminalis Regulates Anxiety-Like Behavior. eNeuro (link) [This research article underscores the impact of genetic risk factors on the development of stress-induced anxiety-like behavioral symptoms]
+
 2. Bonapersona, Hoijtink, RELACS Consortium: (Abbinck, Baram, Bolton, Bordes, ..., 12 authors), Sarabdjitsingh, Joëls (2021) Increasing the statistical power of animal experiments with historical control data. Nature Neuroscience (link) [This research article illustrates the benefits of utilizing historical control data to minimize the number of animals used and improve statistical power in studies on early life stress-induced behavioral symptoms]
-1. van Doeselaar, Yang, Bordes, Brix, Engelhardt, Tang & Schmidt (2020) Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. Stress (link) [This research article showed the importance of sex in studying the effects of chronic stress exposure]
+
+1. van Doeselaar, Yang, Bordes, Brix, Engelhardt, Tang & Schmidt (2020) Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. *Stress* [link](https://www.tandfonline.com/doi/full/10.1080/10253890.2020.1864319) [This research article showed the importance of sex in studying the effects of chronic stress exposure]
 
 
 
