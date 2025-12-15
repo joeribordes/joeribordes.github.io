@@ -27,7 +27,7 @@ shared first authorship: "\*"
 ---
 shared first authorship: "\*"
 
-PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao), last update: 13/12/2025
+PEER-REVIEWED PUBLICATIONS:  20 ARTICLES
 
 **Submitted, preprints**
 <!-- 17\. **Bordes**, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular %cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]-->
