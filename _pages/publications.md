@@ -12,17 +12,16 @@ shared first authorship: "\*"
 
 {% assign gs = site.data.scholar_stats %}
 
-### Google Scholar metrics
 {% if gs and gs.citations_all %}
-Last synced: {{ gs.updated_utc | date: "%d/%m/%Y" }} (UTC)
-
-| Metric | All | {% if gs.since_year %}Since {{ gs.since_year }}{% else %}Since (GS){% endif %} |
-|---|---:|---:|
-| Citations | {{ gs.citations_all }} | {{ gs.citations_since }} |
-| h-index | {{ gs.h_index_all }} | {{ gs.h_index_since }} |
-| i10-index | {{ gs.i10_index_all }} | {{ gs.i10_index_since }} |
+<div class="notice--primary">
+  <strong>Google Scholar (all-time):</strong>
+  Citations <strong>{{ gs.citations_all }}</strong> · h-index <strong>{{ gs.h_index_all }}</strong> · i10-index <strong>{{ gs.i10_index_all }}</strong>
+  {% if gs.updated_utc %}<br><small>Last synced: {{ gs.updated_utc | date: "%d/%m/%Y" }} (UTC)</small>{% endif %}
+</div>
 {% else %}
-(Stats will appear here once the GitHub Action populates `_data/scholar_stats.json`.)
+<div class="notice--info">
+  Google Scholar metrics will appear here once the sync workflow has successfully run.
+</div>
 {% endif %}
 
 ---
