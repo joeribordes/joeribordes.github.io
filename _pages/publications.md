@@ -10,6 +10,27 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 shared first authorship: "\*"
 
+{% assign gs = site.data.scholar_stats %}
+
+### Google Scholar metrics
+{% if gs and gs.citations_all %}
+Last synced: {{ gs.updated_utc | date: "%d/%m/%Y" }} (UTC)
+
+| Metric | All | {% if gs.since_year %}Since {{ gs.since_year }}{% else %}Since (GS){% endif %} |
+|---|---:|---:|
+| Citations | {{ gs.citations_all }} | {{ gs.citations_since }} |
+| h-index | {{ gs.h_index_all }} | {{ gs.h_index_since }} |
+| i10-index | {{ gs.i10_index_all }} | {{ gs.i10_index_since }} |
+{% else %}
+(Stats will appear here once the GitHub Action populates `_data/scholar_stats.json`.)
+{% endif %}
+
+---
+
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
+
+shared first authorship: "\*"
+
 PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao), last update: 13/12/2025
 
 **Submitted, preprints**
