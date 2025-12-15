@@ -25,9 +25,6 @@ shared first authorship: "\*"
 {% endif %}
 
 ---
-
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
-
 shared first authorship: "\*"
 
 PEER-REVIEWED PUBLICATIONS:  20 ARTICLES, [cumulating 423 citations](https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao), last update: 13/12/2025
