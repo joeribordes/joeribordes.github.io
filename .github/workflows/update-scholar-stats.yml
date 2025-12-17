@@ -3,7 +3,11 @@ name: Update Google Scholar stats
 on:
   workflow_dispatch:
   schedule:
-    - cron: "15 6 * * *"  # daily 06:15 UTC
+    - cron: "15 6 * * 1"  # weekly (Monday) 06:15 UTC
+
+concurrency:
+  group: scholar-stats
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -25,6 +29,9 @@ jobs:
 
       - name: Install dependencies
         run: npm install cheerio@1
+
+      - name: Random jitter (0–10 min)
+        run: sleep $((RANDOM % 600))
 
       - name: Fetch Scholar stats
         run: node .github/scripts/fetch-scholar-stats.js
