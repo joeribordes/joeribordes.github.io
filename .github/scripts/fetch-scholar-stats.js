@@ -25,7 +25,7 @@ async function fetchHtmlWithRetries(url, maxTries = 4) {
     try {
       const res = await fetch(url, {
         headers: {
-          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
           "Accept-Language": "en-US,en;q=0.9",
           "User-Agent":
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 " +
@@ -35,6 +35,7 @@ async function fetchHtmlWithRetries(url, maxTries = 4) {
 
       const text = await res.text().catch(() => "");
       if (!res.ok) {
+        // Include status + a short snippet; this is useful for diagnosing blocks/captcha pages.
         throw new Error(`HTTP ${res.status} ${res.statusText}\n${text.slice(0, 300)}`);
       }
       return text;
@@ -63,13 +64,19 @@ async function fetchHtmlWithRetries(url, maxTries = 4) {
     throw new Error("Scholar page layout not detected (blocked/captcha/layout change).");
   }
 
-  const ths = table.find("thead th").map((_, el) => $(el).text().trim()).get();
+  const ths = table
+    .find("thead th")
+    .map((_, el) => $(el).text().trim())
+    .get();
   const sinceLabel = ths.find((t) => /\d{4}/.test(t)) || null;
   const sinceYear = sinceLabel ? toInt(sinceLabel.match(/\d{4}/)?.[0]) : null;
 
   const rows = {};
   table.find("tbody tr").each((_, tr) => {
-    const cells = $(tr).find("td,th").map((__, td) => $(td).text().trim()).get();
+    const cells = $(tr)
+      .find("td,th")
+      .map((__, td) => $(td).text().trim())
+      .get();
     if (cells.length >= 3) {
       const key = slugKey(cells[0]);
       rows[key] = { all: toInt(cells[1]), since: toInt(cells[2]) };
@@ -95,6 +102,26 @@ async function fetchHtmlWithRetries(url, maxTries = 4) {
   console.log("Wrote:", outPath);
   console.log(out);
 })().catch((err) => {
+  // Option 1: fail-open when Google Scholar blocks us (e.g., HTTP 403 "Sorry..." page).
+  // Keep the last successful _data/scholar_stats.json and exit 0 so the workflow doesn't fail.
+  const msg = String(err?.message || err);
+  const outPath = path.join(process.cwd(), "_data", "scholar_stats.json");
+
+  if (msg.includes("HTTP 403")) {
+    if (fs.existsSync(outPath)) {
+      console.warn(
+        "Google Scholar blocked this run (HTTP 403). Keeping existing _data/scholar_stats.json and exiting successfully."
+      );
+      process.exit(0);
+    } else {
+      console.error(
+        "Google Scholar blocked this run (HTTP 403) and no existing _data/scholar_stats.json was found."
+      );
+      console.error(err);
+      process.exit(1);
+    }
+  }
+
   console.error(err);
   process.exit(1);
 });
