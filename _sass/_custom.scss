@@ -1,9 +1,9 @@
-/* Light, airy background (reduces harsh white) */
+/* Light, airy background to reduce the “empty white” look */
 body {
   background: #f6f8fc;
 }
 
-/* Make page content feel like a “card” */
+/* Card-like page container */
 .page__inner-wrap {
   background: #ffffff;
   border-radius: 18px;
@@ -18,7 +18,7 @@ body {
   }
 }
 
-/* Airier typography */
+/* More modern reading rhythm */
 .page__content p,
 .page__content li {
   line-height: 1.75;
@@ -28,10 +28,4 @@ body {
 a {
   text-underline-offset: 0.15em;
   text-decoration-thickness: 0.08em;
-}
-
-/* Softer section headings */
-.page__content h2 {
-  margin-top: 1.6em;
-  padding-top: 0.2em;
 }
