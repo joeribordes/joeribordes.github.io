@@ -1,15 +1,21 @@
-/* Light, airy background to reduce the “empty white” look */
+/* Light, airy background */
 body {
   background: #f6f8fc;
 }
 
-/* Panel styling (replaces the solid white “pages”) */
+/* Reduce the empty feel above content */
+.initial-content {
+  padding-top: 1.25rem;
+}
+
+/* Glass panel tokens */
 :root {
   --panel-bg: rgba(255, 255, 255, 0.72);
   --panel-border: rgba(15, 23, 42, 0.08);
   --panel-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
 }
 
+/* Glass panels (main content + sidebar) */
 .page__inner-wrap {
   background: var(--panel-bg);
   border: 1px solid var(--panel-border);
@@ -37,79 +43,33 @@ body {
   }
 }
 
-/* More modern reading rhythm */
+/* Typography */
 .page__content p,
 .page__content li {
   line-height: 1.75;
 }
 
-/* Cleaner link styling */
-a {
-  text-underline-offset: 0.15em;
-  text-decoration-thickness: 0.08em;
-}
-
-/* ===== Base: light/airy background ===== */
-body {
-  background: #f6f8fc;
-}
-
-/* Reduce the empty feel above content a bit */
-.initial-content {
-  padding-top: 1.25rem;
-}
-
-/* ===== Cards: main content + sidebar ===== */
-.page__inner-wrap {
-  background: #ffffff;
-  border-radius: 18px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-  padding: 1.6rem;
-}
-
-/* Make the left profile column match the main card */
-.sidebar {
-  background: #ffffff;
-  border-radius: 18px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
-  padding: 1.25rem;
-}
-
-/* Slightly wider content on large screens */
-@media (min-width: 80em) {
-  .page {
-    max-width: 1180px;
-  }
-}
-
-/* Airier typography */
-.page__content p,
-.page__content li {
-  line-height: 1.75;
-}
-
-/* ===== Dividers: subtle lines ===== */
+/* Dividers */
 .page__content hr {
   border: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.08);
   margin: 2rem 0;
 }
 
-/* Optional: subtle underlines on section headings */
 .page__content h2 {
   padding-bottom: 0.25rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
 
-/* ===== Links: cleaner + slightly “stronger” hover ===== */
+/* Links */
 a {
   text-underline-offset: 0.15em;
   text-decoration-thickness: 0.08em;
 }
 
-/* ===== Masthead: remove the “white block” feel ===== */
+/* Masthead: integrated, not blocky */
 .masthead {
-  background: rgba(246, 248, 252, 0.92); /* matches body, less blocky */
+  background: rgba(246, 248, 252, 0.92);
   border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -121,20 +81,18 @@ a {
   box-shadow: none;
 }
 
-/* ===== Top navigation: hover “bold” + subtle underline, without layout shift ===== */
+/* Top navigation hover: “bold” without layout shift + underline indicator */
 .greedy-nav a {
   position: relative;
   font-weight: 500;
   transition: text-shadow 150ms ease, opacity 150ms ease;
 }
 
-/* Faux-bold on hover (prevents menu items shifting left/right) */
 .greedy-nav a:hover,
 .greedy-nav a:focus {
   text-shadow: 0.35px 0 0 currentColor, -0.35px 0 0 currentColor;
 }
 
-/* Underline indicator on hover */
 .greedy-nav a::after {
   content: "";
   position: absolute;
