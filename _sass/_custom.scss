@@ -111,13 +111,3 @@ a {
   opacity: 0.45;
   transform: scaleX(1);
 }
-
-/* Force glass background onto the actual containers used by this template */
-#main .page__inner-wrap,
-.page__content,
-.sidebar {
-  background: var(--panel-bg) !important;
-  border: 1px solid var(--panel-border) !important;
-  border-radius: 18px;
-  box-shadow: var(--panel-shadow) !important;
-}
