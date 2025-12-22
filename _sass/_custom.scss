@@ -1,0 +1,37 @@
+/* Light, airy background (reduces harsh white) */
+body {
+  background: #f6f8fc;
+}
+
+/* Make page content feel like a “card” */
+.page__inner-wrap {
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  padding: 1.6rem;
+}
+
+/* Slightly wider content on large screens */
+@media (min-width: 80em) {
+  .page {
+    max-width: 1180px;
+  }
+}
+
+/* Airier typography */
+.page__content p,
+.page__content li {
+  line-height: 1.75;
+}
+
+/* Cleaner link styling */
+a {
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 0.08em;
+}
+
+/* Softer section headings */
+.page__content h2 {
+  margin-top: 1.6em;
+  padding-top: 0.2em;
+}
