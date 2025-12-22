@@ -14,6 +14,7 @@ google_scholar_stats_use_cdn : true
 locale                   : "en-US"
 title                    : "Joeri Bordes, PhD"
 title_separator          : "-"
+minimal_mistakes_skin: "air" # other options: "aqua", "contrast", "dark", "dirt", "mint", "neon", "plum", "sunrise"
 name                     : &name "Joeri Bordes"
 description              : &description "personal description"
 url                      : https://joeribordes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
