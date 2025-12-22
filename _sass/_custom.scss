@@ -29,3 +29,108 @@ a {
   text-underline-offset: 0.15em;
   text-decoration-thickness: 0.08em;
 }
+
+/* ===== Base: light/airy background ===== */
+body {
+  background: #f6f8fc;
+}
+
+/* Reduce the empty feel above content a bit */
+.initial-content {
+  padding-top: 1.25rem;
+}
+
+/* ===== Cards: main content + sidebar ===== */
+.page__inner-wrap {
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  padding: 1.6rem;
+}
+
+/* Make the left profile column match the main card */
+.sidebar {
+  background: #ffffff;
+  border-radius: 18px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
+  padding: 1.25rem;
+}
+
+/* Slightly wider content on large screens */
+@media (min-width: 80em) {
+  .page {
+    max-width: 1180px;
+  }
+}
+
+/* Airier typography */
+.page__content p,
+.page__content li {
+  line-height: 1.75;
+}
+
+/* ===== Dividers: subtle lines ===== */
+.page__content hr {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  margin: 2rem 0;
+}
+
+/* Optional: subtle underlines on section headings */
+.page__content h2 {
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+/* ===== Links: cleaner + slightly “stronger” hover ===== */
+a {
+  text-underline-offset: 0.15em;
+  text-decoration-thickness: 0.08em;
+}
+
+/* ===== Masthead: remove the “white block” feel ===== */
+.masthead {
+  background: rgba(246, 248, 252, 0.92); /* matches body, less blocky */
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.masthead__inner-wrap,
+.greedy-nav {
+  background: transparent;
+  box-shadow: none;
+}
+
+/* ===== Top navigation: hover “bold” + subtle underline, without layout shift ===== */
+.greedy-nav a {
+  position: relative;
+  font-weight: 500;
+  transition: text-shadow 150ms ease, opacity 150ms ease;
+}
+
+/* Faux-bold on hover (prevents menu items shifting left/right) */
+.greedy-nav a:hover,
+.greedy-nav a:focus {
+  text-shadow: 0.35px 0 0 currentColor, -0.35px 0 0 currentColor;
+}
+
+/* Underline indicator on hover */
+.greedy-nav a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -7px;
+  height: 2px;
+  background: currentColor;
+  opacity: 0;
+  transform: scaleX(0.7);
+  transition: opacity 150ms ease, transform 150ms ease;
+}
+
+.greedy-nav a:hover::after,
+.greedy-nav a:focus::after {
+  opacity: 0.45;
+  transform: scaleX(1);
+}
