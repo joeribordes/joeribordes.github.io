@@ -1,6 +1,6 @@
-/* Light, airy background */
+/* ===== Background (slightly darker than “air”) ===== */
 body {
-  background: #f6f8fc;
+  background: #eef2f7;
 }
 
 /* Reduce the empty feel above content */
@@ -8,32 +8,21 @@ body {
   padding-top: 1.25rem;
 }
 
-/* Glass panel tokens */
-:root {
-  --panel-bg: rgba(255, 255, 255, 0.72);
-  --panel-border: rgba(15, 23, 42, 0.08);
-  --panel-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
-}
-
-/* Glass panels (main content + sidebar) */
+/* ===== White panels (main content + sidebar) ===== */
 .page__inner-wrap {
-  background: var(--panel-bg);
-  border: 1px solid var(--panel-border);
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
   border-radius: 18px;
-  box-shadow: var(--panel-shadow);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
   padding: 1.6rem;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
 }
 
 .sidebar {
-  background: var(--panel-bg);
-  border: 1px solid var(--panel-border);
+  background: #ffffff;
+  border: 1px solid rgba(15, 23, 42, 0.06);
   border-radius: 18px;
-  box-shadow: var(--panel-shadow);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.08);
   padding: 1.25rem;
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
 }
 
 /* Slightly wider content on large screens */
@@ -52,13 +41,13 @@ body {
 /* Dividers */
 .page__content hr {
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
+  border-top: 1px solid rgba(15, 23, 42, 0.10);
   margin: 2rem 0;
 }
 
 .page__content h2 {
   padding-bottom: 0.25rem;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid rgba(15, 23, 42, 0.08);
 }
 
 /* Links */
@@ -67,10 +56,10 @@ a {
   text-decoration-thickness: 0.08em;
 }
 
-/* Masthead: integrated, not blocky */
+/* ===== Header (masthead) ===== */
 .masthead {
-  background: rgba(246, 248, 252, 0.92);
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  background: rgba(238, 242, 247, 0.92); /* matches body background */
+  border-bottom: 1px solid rgba(15, 23, 42, 0.06);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
 }
@@ -88,11 +77,13 @@ a {
   transition: text-shadow 150ms ease, opacity 150ms ease;
 }
 
+/* Faux-bold on hover (prevents menu items shifting left/right) */
 .greedy-nav a:hover,
 .greedy-nav a:focus {
   text-shadow: 0.35px 0 0 currentColor, -0.35px 0 0 currentColor;
 }
 
+/* Underline indicator on hover */
 .greedy-nav a::after {
   content: "";
   position: absolute;
