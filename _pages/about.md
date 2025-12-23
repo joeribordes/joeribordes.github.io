@@ -42,10 +42,23 @@ feature_row:
 
 <div class="home-profile">
   <img class="home-avatar" src="/images/joeri_bordes.jpg" alt="Joeri Bordes portrait">
-  <div class="home-profile-text">
-    <p class="home-profile-name">Joeri Bordes, PhD</p>
-    <p class="home-profile-tagline">Computational behavioral neuroscience of stress and social behavior.</p>
-  </div>
+<div class="home-profile-text">
+  <p class="home-profile-name">Joeri Bordes, PhD</p>
+
+  <p class="home-profile-tagline">
+    Behavioral neuroscience of stress and social behavior; machine-learning–driven phenotyping and circuit mechanisms.
+  </p>
+
+  <p class="home-profile-links">
+    <a href="/research/">Research</a> ·
+    <a href="/professional-experience/">Professional experience</a> ·
+    <a href="/publications/">Publications</a> ·
+    <a href="/awards/">Awards</a>
+    <span class="home-profile-links-sep">|</span>
+    <a href="https://www.linkedin.com/in/joeri-bordes/" target="_blank" rel="noopener">LinkedIn</a> ·
+    <a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener">Google Scholar</a> ·
+    <a href="https://orcid.org/0000-0003-2909-2976" target="_blank" rel="noopener">ORCID</a>
+  </p>
 </div>
 
 {% include feature_row %}
