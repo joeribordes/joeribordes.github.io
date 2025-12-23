@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 
 header:
-  overlay_image: /assets/images/hero.jpg
+  overlay_image: hero.jpg
   overlay_filter: rgba(0, 0, 0, 0.20)
   actions:
     - label: "Research"
