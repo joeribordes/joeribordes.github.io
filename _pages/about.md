@@ -20,14 +20,6 @@ header:
     - label: "Publications"
       url: "/publications/"
 
-<div class="home-profile">
-  <img class="home-avatar" src="/images/joeri_bordes.jpg" alt="Joeri Bordes portrait">
-  <div class="home-profile-text">
-    <p class="home-profile-name">Joeri Bordes, PhD</p>
-    <p class="home-profile-tagline">Computational behavioral neuroscience of stress and social behavior.</p>
-  </div>
-</div>
-
 feature_row:
   - title: "Research"
     excerpt: "Naturalistic social behavior and stress models, combining machine learning with neural circuit and molecular approaches."
