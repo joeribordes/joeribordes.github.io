@@ -40,7 +40,16 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
+<div class="home-profile">
+  <img class="home-avatar" src="/images/joeri_bordes.jpg" alt="Joeri Bordes portrait">
+  <div class="home-profile-text">
+    <p class="home-profile-name">Joeri Bordes, PhD</p>
+    <p class="home-profile-tagline">Computational behavioral neuroscience of stress and social behavior.</p>
+  </div>
+</div>
+
 {% include feature_row %}
+
 
 ## About me
 
