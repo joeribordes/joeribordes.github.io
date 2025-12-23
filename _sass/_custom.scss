@@ -102,3 +102,9 @@ a {
   opacity: 0.45;
   transform: scaleX(1);
 }
+
+.page__hero--overlay {
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+}
