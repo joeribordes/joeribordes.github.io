@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 title: "Joeri Bordes, PhD"
-excerpt: "Computational behavioral neuroscience of stress and social behavior—bridging machine learning, circuits, and molecular mechanisms"
+excerpt: "Computational behavioral neuroscience of stress and social behavior—bridging machine learning, neuro-circuits, and molecular mechanisms"
 author_profile: false
 classes: wide
 redirect_from:
