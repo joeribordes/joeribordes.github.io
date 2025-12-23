@@ -11,7 +11,7 @@ redirect_from:
 
 header:
   overlay_image: /assets/images/hero.jpg
-  overlay_filter: rgba(0, 0, 0, 0.35)
+  overlay_filter: rgba(0, 0, 0, 0.20)
   actions:
     - label: "Research"
       url: "/research/"
