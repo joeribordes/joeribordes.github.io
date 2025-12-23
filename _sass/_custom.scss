@@ -108,3 +108,43 @@ a {
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
+
+/* Homepage portrait block (under hero) */
+.home-profile {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.25rem 0 0.75rem 0;
+}
+
+.home-avatar {
+  width: 92px;
+  height: 92px;
+  border-radius: 999px;
+  object-fit: cover;
+  border: 3px solid rgba(255, 255, 255, 0.95);
+  box-shadow: 0 10px 22px rgba(15, 23, 42, 0.14);
+}
+
+.home-profile-name {
+  margin: 0;
+  font-weight: 700;
+  font-size: 1.15rem;
+}
+
+.home-profile-tagline {
+  margin: 0.2rem 0 0 0;
+  opacity: 0.85;
+}
+
+/* Mobile: stack nicely */
+@media (max-width: 600px) {
+  .home-profile {
+    align-items: flex-start;
+  }
+  .home-avatar {
+    width: 76px;
+    height: 76px;
+  }
+}
+
