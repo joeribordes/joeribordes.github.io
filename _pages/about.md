@@ -49,12 +49,7 @@ feature_row:
       Behavioral neuroscience of stress and social behavior; machine-learning–driven phenotyping and circuit mechanisms.
     </p>
 
-    <p class="home-profile-links">
-      <a href="/research/">Research</a> ·
-      <a href="/professional-experience/">Professional experience</a> ·
-      <a href="/publications/">Publications</a> ·
-      <a href="/awards/">Awards</a>
-      <span class="home-profile-links-sep">|</span>
+    <p class="home-profile-links-sep">|</span>
       <a href="https://www.linkedin.com/in/joeri-bordes/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
       <a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a> ·
       <a href="https://orcid.org/0000-0003-2909-2976" target="_blank" rel="noopener noreferrer">ORCID</a>
