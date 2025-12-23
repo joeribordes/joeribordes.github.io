@@ -8,7 +8,7 @@ body {
   padding-top: 1.25rem;
 }
 
-/* ===== White panels (main content + sidebar) ===== */
+/* ===== Panels (main content + sidebar) ===== */
 .page__inner-wrap {
   background: #f6f8fc;
   border: 1px solid rgba(15, 23, 42, 0.06);
@@ -50,7 +50,7 @@ body {
   border-bottom: 1px solid rgba(15, 23, 42, 0.08);
 }
 
-/* Links */
+/* Links (site-wide baseline) */
 a {
   text-underline-offset: 0.15em;
   text-decoration-thickness: 0.08em;
@@ -103,13 +103,14 @@ a {
   transform: scaleX(1);
 }
 
+/* Ensure hero image always covers */
 .page__hero--overlay {
   background-size: cover !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
 }
 
-/* Homepage portrait block (under hero) */
+/* ===== Homepage portrait block (under hero) ===== */
 .home-profile {
   display: flex;
   align-items: center;
@@ -126,6 +127,10 @@ a {
   box-shadow: 0 10px 22px rgba(15, 23, 42, 0.14);
 }
 
+.home-profile-text {
+  min-width: 0;
+}
+
 .home-profile-name {
   margin: 0;
   font-weight: 700;
@@ -137,14 +142,50 @@ a {
   opacity: 0.85;
 }
 
+/* ===== Option B quick links under the tagline ===== */
+.home-profile-links {
+  margin: 0.35rem 0 0 0;
+  font-size: 0.95rem;
+  opacity: 0.92;
+}
+
+.home-profile-links a {
+  font-weight: 600;
+}
+
+.home-profile-links-sep {
+  margin: 0 0.45rem;
+  opacity: 0.45;
+}
+
+/* Subtle hover treatment for homepage quick links only */
+.home-profile-links a {
+  text-decoration: none;                 /* cleaner baseline */
+  border-bottom: 1px solid transparent;  /* enables smooth underline */
+  transition: border-color 150ms ease, opacity 150ms ease, transform 150ms ease;
+}
+
+.home-profile-links a:hover,
+.home-profile-links a:focus {
+  border-bottom-color: rgba(15, 23, 42, 0.35);
+  opacity: 1;
+}
+
+/* Optional: tiny “lift” on hover (very subtle) */
+@media (hover: hover) {
+  .home-profile-links a:hover {
+    transform: translateY(-1px);
+  }
+}
+
 /* Mobile: stack nicely */
 @media (max-width: 600px) {
   .home-profile {
     align-items: flex-start;
   }
+
   .home-avatar {
     width: 76px;
     height: 76px;
   }
 }
-
