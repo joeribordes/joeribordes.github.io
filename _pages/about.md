@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 title: "Joeri Bordes, PhD"
-excerpt: "Computational behavioral neuroscience of stress and social behavior—bridging machine learning, circuits, and molecular mechanisms."
+excerpt: "Computational behavioral neuroscience of stress and social behavior—bridging machine learning, circuits, and molecular mechanisms"
 author_profile: true
 classes: wide
 redirect_from:
@@ -22,19 +22,19 @@ header:
 
 feature_row:
   - title: "Research"
-    excerpt: "Naturalistic social behavior and stress models, combining machine learning with neural circuit and molecular approaches."
+    excerpt: "Naturalistic social behavior and stress models, combining machine learning with neural circuit and molecular approaches"
     url: "/research/"
     btn_label: "Explore research"
     btn_class: "btn--primary"
 
   - title: "Professional experience"
-    excerpt: "Postdoctoral and doctoral training across Bordeaux, Munich, Mainz, and Geneva."
+    excerpt: "Postdoctoral and doctoral training across Bordeaux, Munich, Mainz, and Geneva"
     url: "/professional-experience/"
     btn_label: "View timeline"
     btn_class: "btn--primary"
 
   - title: "Publications"
-    excerpt: "Peer-reviewed articles, preprints, and reviews, with auto-updated Google Scholar metrics."
+    excerpt: "Peer-reviewed articles, preprints, and reviews"
     url: "/publications/"
     btn_label: "Open publications"
     btn_class: "btn--primary"
