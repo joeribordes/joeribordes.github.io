@@ -191,24 +191,23 @@ a {
 }
 
 /* =========================
-   Publications: stronger link “pills”
+   Publications: make links stand out (works even without <ol><li>)
    ========================= */
 
-/* Targets links inside ordered/unordered lists on the publications page */
-.pubs .page__content ol li a:not(.btn),
-.pubs .page__content ul li a:not(.btn) {
+/* Style most links in the publications content as “pills” */
+.pubs .page__content a:not(.btn) {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
 
-  padding: 0.2rem 0.65rem;
+  padding: 0.18rem 0.65rem;
   margin: 0 0.15rem;
 
   border-radius: 999px;
 
-  /* Higher contrast */
+  /* Higher contrast, readable on your light background */
   background: rgba(2, 132, 199, 0.16);
-  border: 1px solid rgba(2, 132, 199, 0.55);
+  border: 1px solid rgba(2, 132, 199, 0.60);
   color: #075985;
 
   font-weight: 750;
@@ -219,26 +218,50 @@ a {
   transition: transform 150ms ease, background 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
 }
 
-.pubs .page__content ol li a:not(.btn):hover,
-.pubs .page__content ul li a:not(.btn):hover,
-.pubs .page__content ol li a:not(.btn):focus,
-.pubs .page__content ul li a:not(.btn):focus {
+.pubs .page__content a:not(.btn):hover,
+.pubs .page__content a:not(.btn):focus {
   background: rgba(2, 132, 199, 0.24);
-  border-color: rgba(2, 132, 199, 0.75);
+  border-color: rgba(2, 132, 199, 0.78);
   box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
   transform: translateY(-1px);
 }
 
-.pubs .page__content ol li a:not(.btn):focus-visible,
-.pubs .page__content ul li a:not(.btn):focus-visible {
+.pubs .page__content a:not(.btn):focus-visible {
   outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
 }
 
-/* Optional: show an external-link marker on http(s) links */
-.pubs .page__content ol li a[href^="http"]:not(.btn)::after,
-.pubs .page__content ul li a[href^="http"]:not(.btn)::after {
+/* Optional: external-link marker on http(s) links */
+.pubs .page__content a[href^="http"]:not(.btn)::after {
   content: "↗";
   font-size: 0.9em;
   opacity: 0.75;
+}
+
+/* Keep the very first “Google Scholar profile” link as a normal underline link */
+.pubs .page__content > p:first-of-type a {
+  display: inline;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: underline !important;
+}
+
+/* Don’t turn notice-box links into pills (if you ever add any) */
+.pubs .page__content .notice a {
+  display: inline;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: underline !important;
 }
