@@ -190,32 +190,55 @@ a {
   }
 }
 
-/* ===== Publications page: make paper links stand out ===== */
-body.pubs .page__content ol a,
-body.pubs .page__content ul a {
-  display: inline-block;
-  padding: 0.15rem 0.55rem;
+/* =========================
+   Publications: stronger link “pills”
+   ========================= */
+
+/* Targets links inside ordered/unordered lists on the publications page */
+.pubs .page__content ol li a:not(.btn),
+.pubs .page__content ul li a:not(.btn) {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+
+  padding: 0.2rem 0.65rem;
+  margin: 0 0.15rem;
+
   border-radius: 999px;
-  border: 1px solid rgba(15, 23, 42, 0.14);
-  background: rgba(15, 23, 42, 0.06);
-  font-weight: 650;
-  font-size: 0.92em;
-  text-decoration: none; /* override underline */
-  line-height: 1.35;
-  transition: transform 150ms ease, background 150ms ease, border-color 150ms ease;
+
+  /* Higher contrast */
+  background: rgba(2, 132, 199, 0.16);
+  border: 1px solid rgba(2, 132, 199, 0.55);
+  color: #075985;
+
+  font-weight: 750;
+  text-decoration: none !important;
+
+  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
+
+  transition: transform 150ms ease, background 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
 }
 
-body.pubs .page__content ol a:hover,
-body.pubs .page__content ul a:hover,
-body.pubs .page__content ol a:focus,
-body.pubs .page__content ul a:focus {
-  background: rgba(15, 23, 42, 0.10);
-  border-color: rgba(15, 23, 42, 0.22);
+.pubs .page__content ol li a:not(.btn):hover,
+.pubs .page__content ul li a:not(.btn):hover,
+.pubs .page__content ol li a:not(.btn):focus,
+.pubs .page__content ul li a:not(.btn):focus {
+  background: rgba(2, 132, 199, 0.24);
+  border-color: rgba(2, 132, 199, 0.75);
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
   transform: translateY(-1px);
 }
 
-body.pubs .page__content ol a:focus-visible,
-body.pubs .page__content ul a:focus-visible {
-  outline: 2px solid rgba(15, 23, 42, 0.35);
+.pubs .page__content ol li a:not(.btn):focus-visible,
+.pubs .page__content ul li a:not(.btn):focus-visible {
+  outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
+}
+
+/* Optional: show an external-link marker on http(s) links */
+.pubs .page__content ol li a[href^="http"]:not(.btn)::after,
+.pubs .page__content ul li a[href^="http"]:not(.btn)::after {
+  content: "↗";
+  font-size: 0.9em;
+  opacity: 0.75;
 }
