@@ -190,29 +190,27 @@ a {
   }
 }
 /* =========================
-   Publications: make paper links stand out (scoped to .pubs-list)
+   Publications: make paper links stand out
    ========================= */
 
-/* Style publication links as “pills” */
-.pubs .page__content .pubs-list a:not(.btn) {
+.pubs-list a:not(.btn) {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
 
-  padding: 0.18rem 0.65rem;
-  margin: 0 0.15rem;
+  padding: 0.22rem 0.7rem;
+  margin: 0 0.18rem;
 
   border-radius: 999px;
 
-  /* Higher contrast, readable on your light background */
-  background: rgba(2, 132, 199, 0.16);
-  border: 1px solid rgba(2, 132, 199, 0.60);
+  background: rgba(2, 132, 199, 0.22);
+  border: 1px solid rgba(2, 132, 199, 0.78);
   color: #075985;
 
-  font-weight: 750;
+  font-weight: 780;
   text-decoration: none !important;
 
-  box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
+  box-shadow: 0 8px 18px rgba(15, 23, 42, 0.10);
 
   transition:
     transform 150ms ease,
@@ -221,52 +219,22 @@ a {
     box-shadow 150ms ease;
 }
 
-.pubs .page__content .pubs-list a:not(.btn):hover,
-.pubs .page__content .pubs-list a:not(.btn):focus {
-  background: rgba(2, 132, 199, 0.24);
-  border-color: rgba(2, 132, 199, 0.78);
-  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
+.pubs-list a:not(.btn):hover,
+.pubs-list a:not(.btn):focus {
+  background: rgba(2, 132, 199, 0.30);
+  border-color: rgba(2, 132, 199, 0.92);
+  box-shadow: 0 12px 26px rgba(15, 23, 42, 0.14);
   transform: translateY(-1px);
 }
 
-.pubs .page__content .pubs-list a:not(.btn):focus-visible {
+.pubs-list a:not(.btn):focus-visible {
   outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
 }
 
-/* Optional: external-link marker */
-.pubs .page__content .pubs-list a[href^="http"]:not(.btn)::after {
+/* External-link marker */
+.pubs-list a[href^="http"]:not(.btn)::after {
   content: "↗";
   font-size: 0.9em;
-  opacity: 0.75;
-}
-
-/* Ensure the top “Google Scholar profile” link stays normal (not pill-styled) */
-.pubs .page__content > p:first-of-type a {
-  display: inline;
-  padding: 0;
-  margin: 0;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-  box-shadow: none;
-  color: inherit;
-  font-weight: inherit;
-  text-decoration: underline !important;
-}
-
-/* Don’t pill-style links inside notice boxes (if present) */
-.pubs .page__content .notice a,
-.pubs .page__content .notice--primary a,
-.pubs .page__content .notice--info a {
-  display: inline;
-  padding: 0;
-  margin: 0;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-  box-shadow: none;
-  color: inherit;
-  font-weight: inherit;
-  text-decoration: underline !important;
+  opacity: 0.8;
 }
