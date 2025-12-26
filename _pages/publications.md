@@ -7,7 +7,6 @@ author_profile: true
 classes: pubs
 ---
 
-
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
 
 shared first authorship: "\*"
@@ -26,17 +25,20 @@ shared first authorship: "\*"
 </div>
 {% endif %}
 
----
+<hr>
+
+<div class="pubs-list">
+
 shared first authorship: "\*"
 
-PEER-REVIEWED PUBLICATIONS:  20 ARTICLES
+PEER-REVIEWED PUBLICATIONS: 20 ARTICLES
 
 **Submitted, preprints**
 <!-- 17\. **Bordes**, Stont, Aman, Bittar, Soulat …, Beyeler (2025). Insular Cortex Corticotropin-Releasing Factor Signaling Mediates Social Alterations after Early Life Stress. In preparation. [This research highlights that early life stress reshapes naturalistic social behavior via insular %cortex dynamics, revealing sex-dependent effects and nominating the insula as a circuit target for normalizing social function.]-->
 
 16\. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1) [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
 
-15\. **Bordes** \*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Submitted* [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.13.694102v1)  [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
+15\. **Bordes** \*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Submitted* [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.13.694102v1) [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
 
 **14 Research Articles (2 as 1st author) 2 submitted, 1 in preparation**
 
@@ -81,3 +83,5 @@ PEER-REVIEWED PUBLICATIONS:  20 ARTICLES
 2\. Miranda\*, **Bordes** \*, Gasperoni, Lopez (2023) Increasing resolution in stress neurobiology: from single cells to complex group behaviors. *Stress* [link](https://www.tandfonline.com/doi/full/10.1080/10253890.2023.2186141) [This commentary highlights the latest molecular tools in stress neuroscience and underscores the importance of computational neuroscience in advancing this field]
 
 1\. von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing (2023) Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice. *Molecular Psychiatry* [link](https://www.nature.com/articles/s41380-022-01762-w) [This review highlights the difficulties in translating preclinical stress models to clinical settings, emphasizing the need for advanced computational tools and better alignment with clinical symptoms. This is relevant to the current research proposal, as similar issues affect preclinical models of anxiety disorders]
+
+</div>
