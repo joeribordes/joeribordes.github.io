@@ -189,13 +189,12 @@ a {
     height: 76px;
   }
 }
-
 /* =========================
-   Publications: make links stand out (works even without <ol><li>)
+   Publications: make paper links stand out (scoped to .pubs-list)
    ========================= */
 
-/* Style most links in the publications content as “pills” */
-.pubs .page__content a:not(.btn) {
+/* Style publication links as “pills” */
+.pubs .page__content .pubs-list a:not(.btn) {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
@@ -215,30 +214,34 @@ a {
 
   box-shadow: 0 6px 14px rgba(15, 23, 42, 0.08);
 
-  transition: transform 150ms ease, background 150ms ease, border-color 150ms ease, box-shadow 150ms ease;
+  transition:
+    transform 150ms ease,
+    background 150ms ease,
+    border-color 150ms ease,
+    box-shadow 150ms ease;
 }
 
-.pubs .page__content a:not(.btn):hover,
-.pubs .page__content a:not(.btn):focus {
+.pubs .page__content .pubs-list a:not(.btn):hover,
+.pubs .page__content .pubs-list a:not(.btn):focus {
   background: rgba(2, 132, 199, 0.24);
   border-color: rgba(2, 132, 199, 0.78);
   box-shadow: 0 10px 20px rgba(15, 23, 42, 0.12);
   transform: translateY(-1px);
 }
 
-.pubs .page__content a:not(.btn):focus-visible {
+.pubs .page__content .pubs-list a:not(.btn):focus-visible {
   outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
 }
 
-/* Optional: external-link marker on http(s) links */
-.pubs .page__content a[href^="http"]:not(.btn)::after {
+/* Optional: external-link marker */
+.pubs .page__content .pubs-list a[href^="http"]:not(.btn)::after {
   content: "↗";
   font-size: 0.9em;
   opacity: 0.75;
 }
 
-/* Keep the very first “Google Scholar profile” link as a normal underline link */
+/* Ensure the top “Google Scholar profile” link stays normal (not pill-styled) */
 .pubs .page__content > p:first-of-type a {
   display: inline;
   padding: 0;
@@ -252,8 +255,10 @@ a {
   text-decoration: underline !important;
 }
 
-/* Don’t turn notice-box links into pills (if you ever add any) */
-.pubs .page__content .notice a {
+/* Don’t pill-style links inside notice boxes (if present) */
+.pubs .page__content .notice a,
+.pubs .page__content .notice--primary a,
+.pubs .page__content .notice--info a {
   display: inline;
   padding: 0;
   margin: 0;
