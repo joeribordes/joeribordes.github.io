@@ -1,9 +1,17 @@
 ---
-title: "Two new bioRxiv preprints on FKBP51 and restoring social function after stress"
+layout: single
+title: "Restore social function after stress by targeting FKBP51?"
 date: 2025-12-29
 categories: [news]
-excerpt: "Two new preprints from our work at the Max Planck Institute of Psychiatry converge on FKBP51 as a modifiable node to restore adaptive social functioning after stress and early-life adversity."
+permalink: /news/restore-social-function-fkbp51/
+author_profile: true
+
+header:
+  overlay_image: /images/news/image_stress_fkbp5.png
+  overlay_filter: rgba(0, 0, 0, 0.35)
+  teaser: /images/news/image_stress_fkbp5.png
 ---
+
 
 **Can we restore social function after stress by targeting genetic risk factors, such as FKBP5/FKBP51?**
 
