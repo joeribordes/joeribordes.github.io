@@ -14,12 +14,12 @@ author_profile: true
 This was the central question that we were aiming to answer in our recent work with PD Dr. Mathias V. Schmidt at the Max Planck Institute of Psychiatry. In two recently posted bioRxiv preprints, we converge on a shared conclusion: stress and early adversity can change social behavior by altering both (i) rapid norepinephrine signaling in specific circuits and (ii) longer-lasting molecular programs that lock these social behavioral changes in place. Across both studies, FKBP51 emerges as a promising target to help restore more adaptive social functioning.
 
 ### Noradrenergic Fkbp5 regulation and social salience circuitry  
-https://lnkd.in/dEWYNfc8
+[Preprint link](https://lnkd.in/dEWYNfc8)
 
 In this study, we link noradrenergic Fkbp5 regulation to alterations in norepinephrine (NE) turnover and phasic, behavior-locked NE dynamics in the basolateral amygdala (BLA), a key hub for social salience and affective learning. These changes co-occur with signatures of mitochondrial/energy and synaptic remodeling in BLA neurons. Conceptually, the implication is the following: rather than broadly dampening noradrenergic function, we show a circuit-specific strategy to shift maladaptive social processing, by targeting mechanisms that tune NE signaling in precise social contexts.
 
 ### Early-life adversity and FKBP51 antagonism (SAFit2)  
-https://lnkd.in/d5CtpHdp
+[Preprint link](https://lnkd.in/d5CtpHdp)
 
 In this study, we show that early-life adversity induces lasting disruptions in social behavior, especially social dominance, along with persistent changes in brain gene-expression programs across stress-relevant circuits. Strikingly, SAFit2 (an FKBP51 antagonist) can largely rescue key behavioral alterations and normalize parts of the associated transcriptional signature. Together, these results support the view that FKBP51 is not only a marker of vulnerability, but also a modifiable node with therapeutic potential to counteract enduring biological consequences of adverse experiences.
 
