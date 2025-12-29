@@ -5,6 +5,7 @@ categories: [news]
 tags: [FKBP5, FKBP51, stress, social behavior, norepinephrine, amygdala, early-life adversity, preprint]
 excerpt: "Two new bioRxiv preprints converge on FKBP51 as a modifiable node linking stress and early adversity to social behavior via circuit-level norepinephrine dynamics and persistent transcriptional programs."
 author_profile: true
+classes: news-post
 ---
 
 **Can we restore social function after stress by targeting genetic risk factors, such as FKBP5/FKBP51?**
