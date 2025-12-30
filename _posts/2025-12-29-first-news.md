@@ -8,6 +8,8 @@ author_profile: true
 classes: news-post
 ---
 
+<div class="news-post">
+
 **Can we restore social function after stress by targeting genetic risk factors, such as FKBP5/FKBP51?**
 
 [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7411331287267016705/)
@@ -34,3 +36,5 @@ I’m grateful to PD Dr. Mathias V. Schmidt for his exceptional mentoring and gu
     FKBP5/FKBP51 as a modifiable node linking stress and early adversity to social behavior alterations across circuit and molecular timescales.
   </figcaption>
 </figure>
+
+</div>
