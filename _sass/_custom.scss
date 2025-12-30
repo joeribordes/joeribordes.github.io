@@ -240,10 +240,10 @@ a {
 }
 /* =========================
    NEWS posts: make links stand out (pills)
-   Requires: classes: news-post in the post front matter
+   Applies to posts with front matter: classes: news-post
    ========================= */
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item) {
+.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager) {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
@@ -253,7 +253,6 @@ a {
 
   border-radius: 999px;
 
-  /* Same visual language as publications */
   background: rgba(2, 132, 199, 0.22);
   border: 1px solid rgba(2, 132, 199, 0.78);
   color: #075985;
@@ -270,15 +269,15 @@ a {
     box-shadow 150ms ease;
 }
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):hover,
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):focus {
+.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):hover,
+.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):focus {
   background: rgba(2, 132, 199, 0.30);
   border-color: rgba(2, 132, 199, 0.92);
   box-shadow: 0 12px 26px rgba(15, 23, 42, 0.14);
   transform: translateY(-1px);
 }
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):focus-visible {
+.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):focus-visible {
   outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
 }
