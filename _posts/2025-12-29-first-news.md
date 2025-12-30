@@ -8,7 +8,7 @@ author_profile: true
 classes: news-post
 ---
 
-<div class="news-post">
+<div class="news-post" markdown="1">
 
 **Can we restore social function after stress by targeting genetic risk factors, such as FKBP5/FKBP51?**
 
