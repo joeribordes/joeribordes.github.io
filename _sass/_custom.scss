@@ -240,10 +240,10 @@ a {
 }
 /* =========================
    NEWS posts: make links stand out (pills)
-   Applies to posts with front matter: classes: news-post
+   Works via a content wrapper: <div class="news-post">...</div>
    ========================= */
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager) {
+.news-post a:not(.btn):not(.page__taxonomy-item) {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
@@ -269,37 +269,23 @@ a {
     box-shadow 150ms ease;
 }
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):hover,
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):focus {
+.news-post a:not(.btn):not(.page__taxonomy-item):hover,
+.news-post a:not(.btn):not(.page__taxonomy-item):focus {
   background: rgba(2, 132, 199, 0.30);
   border-color: rgba(2, 132, 199, 0.92);
   box-shadow: 0 12px 26px rgba(15, 23, 42, 0.14);
   transform: translateY(-1px);
 }
 
-.news-post .page__content a:not(.btn):not(.page__taxonomy-item):not(.pagination--pager):focus-visible {
+.news-post a:not(.btn):not(.page__taxonomy-item):focus-visible {
   outline: 2px solid rgba(2, 132, 199, 0.55);
   outline-offset: 2px;
 }
 
 /* External-link marker */
-.news-post .page__content a[href^="http"]:not(.btn):not(.page__taxonomy-item)::after {
+.news-post a[href^="http"]:not(.btn):not(.page__taxonomy-item)::after {
   content: "↗";
   font-size: 0.9em;
   opacity: 0.8;
-}
-
-/* Keep notice-box links normal */
-.news-post .page__content .notice a {
-  display: inline;
-  padding: 0;
-  margin: 0;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-  box-shadow: none;
-  color: inherit;
-  font-weight: inherit;
-  text-decoration: underline !important;
 }
 
