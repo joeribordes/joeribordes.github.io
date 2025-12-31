@@ -50,10 +50,12 @@ feature_row:
     </p>
 
     <p class="home-profile-links">
-      <a href="https://www.linkedin.com/in/joeri-bordes/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-      <a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a> ·
-      <a href="https://orcid.org/0000-0003-2909-2976" target="_blank" rel="noopener noreferrer">ORCID</a>
-    </p>
+  <a href="/assets/files/CV_Joeri_Bordes.pdf" target="_blank" rel="noopener noreferrer">CV (PDF)</a> ·
+  <a href="mailto:joeri.bordes@unige.ch">joeri.bordes@unige.ch</a>
+  <a href="https://www.linkedin.com/in/joeri-bordes/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=T6pswigAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a> ·
+  <a href="https://orcid.org/0000-0003-2909-2976" target="_blank" rel="noopener noreferrer">ORCID</a> ·
+</p>
   </div>
 </div>
 
