@@ -43,7 +43,7 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 ## Research articles [15 total]
 
 1. De Donno\*, Lopez\*, Luecken\*, Kos, Brivio, **Bordes**, Yang, Deussing, Schmidt, Theis, Chen (2026) Single-cell characterization of the adult male hippocampus suggests a prominent, and cell-type specific, role for Nrgn and Sgk1 in response to a social stressor. *Molecular Psychiatry* — [Link](https://www.nature.com/articles/s41380-025-03417-y)  
-   [Using large-scale single-cell RNA-seq of the adult male mouse posterior hippocampus under baseline vs. single prolonged social defeat stress—plus GR/MR conditional knockouts in glutamatergic or GABAergic neurons—this study maps cell-type–specific stress transcriptional programs]
+   [Using large-scale single-cell RNA-seq of the adult male mouse posterior hippocampus under baseline vs. acute social defeat stress—plus GR/MR conditional knockouts in glutamatergic or GABAergic neurons—this study maps cell-type–specific stress transcriptional programs]
    
 1. Yang, Narayan, **Bordes**, …, 11 authors…, Lopez, Schmidt (2025) Mineralocorticoid receptor in glutamatergic neurons modulates anxiety exclusively in male mice via regulation of the actin bundling factor FAM107a. *Biological Psychiatry Global Open Science* — [Link](https://www.sciencedirect.com/science/article/pii/S2667174325002058?via%3Dihub)  
    [This work defines a cell-type–specific Mineralocorticoid Receptor pathway for stress-related behavior: male-selective baseline anxiety, associated hippocampal alterations, and a causal Fam107a mechanism capable of reversing the behavioral deficit]
