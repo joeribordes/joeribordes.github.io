@@ -36,7 +36,7 @@ Shared first authorship: \*
 
 1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.13.694102v1)  
    [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
-{: start="16" reversed="reversed" }
+{: start="17" reversed="reversed" }
 
 PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
@@ -78,7 +78,7 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
 1. van Doeselaar, Yang, **Bordes**, Brix, Engelhardt, Tang & Schmidt (2020) Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. *Stress* — [Link](https://www.tandfonline.com/doi/full/10.1080/10253890.2020.1864319)  
    [This research article showed the importance of sex in studying the effects of chronic stress exposure]
-{: start="14" reversed="reversed" }
+{: start="15" reversed="reversed" }
 
 ## Review & commentary [6 total]
 
