@@ -8,6 +8,9 @@ author_profile: true
 
 ## Prizes and awards
 
+**02/2026** \
+ Travel awardee for the [35th Annual Meeting](https://www.ibnsconnect.org/2026-speakers) of the International Behavioral Neuroscience Society (IBNS) in Cape Town, South Africa 
+
 **2025–2030** \
 Selected member of the [ECNP Early Career Academy](https://www.ecnp.eu/early-career/ecnp-career-academy/)
 
