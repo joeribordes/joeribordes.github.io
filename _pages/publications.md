@@ -29,18 +29,16 @@ Shared first authorship: \*
 
 {% capture pubs_md %}
 
-## Submitted, preprints [2]
-
+## Submitted, preprints [1]
+{: start="17" reversed="reversed" }
 1. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1)  
    [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
 
-1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.13.694102v1)  
-   [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
-{: start="17" reversed="reversed" }
-
 PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
-## Research articles [15 total]
+## Research articles [16 total]
+1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Advanced Science* — [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.76040)  
+   [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
 
 1. De Donno\*, Lopez\*, Luecken\*, Kos, Brivio, **Bordes**, Yang, Deussing, Schmidt, Theis, Chen (2026) Single-cell characterization of the adult male hippocampus suggests a prominent, and cell-type specific, role for Nrgn and Sgk1 in response to a social stressor. *Molecular Psychiatry* — [Link](https://www.nature.com/articles/s41380-025-03417-y)  
    [Using large-scale single-cell RNA-seq of the adult male mouse posterior hippocampus under baseline vs. acute social defeat stress—plus GR/MR conditional knockouts in glutamatergic or GABAergic neurons—this study maps cell-type–specific stress transcriptional programs]
