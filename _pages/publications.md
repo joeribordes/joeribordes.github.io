@@ -30,9 +30,9 @@ Shared first authorship: \*
 {% capture pubs_md %}
 
 ## Submitted, preprints [1]
-{: start="17" reversed="reversed"}
 1. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1)  
    [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
+{: start="17" reversed="reversed"}
 
 PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
@@ -76,7 +76,7 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
 1. van Doeselaar, Yang, **Bordes**, Brix, Engelhardt, Tang & Schmidt (2020) Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. *Stress* — [Link](https://www.tandfonline.com/doi/full/10.1080/10253890.2020.1864319)  
    [This research article showed the importance of sex in studying the effects of chronic stress exposure]
-{: start="15" reversed="reversed" }
+{: start="16" reversed="reversed" }
 
 ## Review & commentary [6 total]
 
