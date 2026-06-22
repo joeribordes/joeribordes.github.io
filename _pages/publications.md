@@ -32,8 +32,7 @@ Shared first authorship: \*
 ## Submitted, preprints [1]
 
 1. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2025) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1)  
-   [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
-   {: start="17" reversed="reversed" }
+   [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]{: start="17" reversed="reversed" }
 
 PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
