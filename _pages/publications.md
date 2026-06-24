@@ -78,7 +78,7 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
    [This research article showed the importance of sex in studying the effects of chronic stress exposure]
 {: start="16" reversed="reversed" }
 
-## Review & commentary [6 total]
+## Reviews, commentaries & book chapters [6 total]
 
 1. Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025) Chapter 30. Pre-Clinical Models of Emotional Dysregulations. *Handbook of Human Affective Neuroscience, 2nd edition* — [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/preclinical-models-of-emotional-dysregulations-in-animals/11E422034B11BA423A077A1D1FDE7DC0)
 
