@@ -21,7 +21,7 @@ Shared first authorship: \*
 PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
 ## Research articles [16 total]
-1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2025). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Advanced Science* — [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.76040)  
+1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2026). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Advanced Science* — [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.76040)  
    [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
 
 1. De Donno\*, Lopez\*, Luecken\*, Kos, Brivio, **Bordes**, Yang, Deussing, Schmidt, Theis, Chen (2026) Single-cell characterization of the adult male hippocampus suggests a prominent, and cell-type specific, role for Nrgn and Sgk1 in response to a social stressor. *Molecular Psychiatry* — [Link](https://www.nature.com/articles/s41380-025-03417-y)  
