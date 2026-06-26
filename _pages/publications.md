@@ -11,6 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 Shared first authorship: \*
 
+{% comment %}
 {% assign gs = site.data.scholar_stats %}
 
 {% if gs and gs.citations_all %}
@@ -24,7 +25,7 @@ Shared first authorship: \*
   Google Scholar metrics will appear here once the sync workflow has successfully run.
 </div>
 {% endif %}
-
+{% endcomment %}
 <hr>
 
 {% capture pubs_md %}
