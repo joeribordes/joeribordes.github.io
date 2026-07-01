@@ -8,7 +8,7 @@ author_profile: true
 
 ## Prizes and awards
 
-**02/2026** \
+**06/2026** \
  Travel awardee for the [35th Annual Meeting](https://www.ibnsconnect.org/2026-speakers) of the International Behavioral Neuroscience Society (IBNS) in Cape Town, South Africa 
 
 **2025–2030** \
