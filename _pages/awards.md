@@ -8,6 +8,9 @@ author_profile: true
 
 ## Prizes and awards
 
+**02/2027** \
+ Junior Investigator Awardee for the [Global Stress and Resilience Meeting](https://stress-and-resilience-meeting27.epfl.ch/), Lausanne, CH  
+
 **06/2026** \
  Travel awardee for the [35th Annual Meeting](https://www.ibnsconnect.org/2026-speakers) of the International Behavioral Neuroscience Society (IBNS) in Cape Town, South Africa 
 
