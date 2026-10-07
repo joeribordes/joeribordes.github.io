@@ -87,7 +87,7 @@ PEER-REVIEWED PUBLICATIONS: 24 ARTICLES
 {: start="17" reversed="reversed" }
 
 ## Reviews, commentaries & book chapters [7 total]
-1. **Bordes**, Ricci, Stont, Bittar, Beyeler (2027) Chapter 17. Decoding Anxiety Circuits by Integrating Behavioral Assays with Neural Recordings. *Psychiatric Vulnerability, and Mood and Anxiety Disorders*, In press. [Link]()
+1. **Bordes**, Ricci, Stont, Bittar, Beyeler (2027) Chapter 17. Decoding Anxiety Circuits by Integrating Behavioral Assays with Neural Recordings. *Psychiatric Vulnerability, and Mood and Anxiety Disorders*, In press. [Link](https://link.springer.com/protocol/10.1007/978-1-0716-5599-3_17)
 
 1. Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025) Chapter 30. Pre-Clinical Models of Emotional Dysregulations. *Handbook of Human Affective Neuroscience, 2nd edition* — [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/preclinical-models-of-emotional-dysregulations-in-animals/11E422034B11BA423A077A1D1FDE7DC0)
 
