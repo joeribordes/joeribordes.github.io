@@ -33,14 +33,17 @@ Shared first authorship: \*
 ## Submitted, preprints [1]
 1. **Bordes**, Stont, Bajaj, Chang, Ebert, Miranda, Schlegel, Reinhardt, …, 9 authors …, Beyeler, Gassen, Schmidt (2026) Loss of noradrenergic Fkbp5 disrupts social behavior and norepinephrine dynamics in the basolateral amygdala. *Submitted* — [Preprint](https://www.biorxiv.org/content/10.64898/2025.12.10.693477v1)  
    [By linking Noradrenergic Fkbp5 regulation to phasic basolateral amygdala norepinephrine and mitochondrial/synaptic remodeling, this study highlights a circuit-specific route to normalize social salience without broadly suppressing noradrenergic function.]
-{: start="17" reversed="reversed"}
+{: start="18" reversed="reversed"}
 
-PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
+PEER-REVIEWED PUBLICATIONS: 22 ARTICLES
 
-## Research articles [16 total]
+## Research articles [17 total]
 1. **Bordes**\*, Ji\*, Gasperoni, Sudre-Chinsky, Harbich, Flachskamm, Fontanet, Narayan, Uhr, Namendorf, Chen, Hausch, Lopez, Schmidt (2026). Pharmacological Inhibition of FKBP51 Mitigates Early Life Adversity-Induced Social Deficits. *Advanced Science* — [Link](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.76040)  
    [Early-life adversity disrupts social behavior and brain gene expression, which SAFit2 (an FKBP51 antagonist) can largely rescue]
-
+   
+1. Narayan, Beer, Castoldi, Stark, Dal Bianco, Röh, Sauer, **Bordes**, …, 9 authors…, Binder, Schmidt (2026) Multilevel sex influenced neurobiological signatures of early life adversity. *PNAS* — [Link](https://www.pnas.org/doi/10.1073/pnas.2603982123)  
+   [This study integrates whole-brain activity mapping, MRI, transcriptomics, and advanced behavioral phenotyping to reveal lasting, sex-specific effects of early life stress on adult brain function and behavior]
+   
 1. De Donno\*, Lopez\*, Luecken\*, Kos, Brivio, **Bordes**, Yang, Deussing, Schmidt, Theis, Chen (2026) Single-cell characterization of the adult male hippocampus suggests a prominent, and cell-type specific, role for Nrgn and Sgk1 in response to a social stressor. *Molecular Psychiatry* — [Link](https://www.nature.com/articles/s41380-025-03417-y)  
    [Using large-scale single-cell RNA-seq of the adult male mouse posterior hippocampus under baseline vs. acute social defeat stress—plus GR/MR conditional knockouts in glutamatergic or GABAergic neurons—this study maps cell-type–specific stress transcriptional programs]
    
@@ -77,9 +80,10 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
 1. van Doeselaar, Yang, **Bordes**, Brix, Engelhardt, Tang & Schmidt (2020) Chronic social defeat stress in female mice leads to sex-specific behavioral and neuroendocrine effects. *Stress* — [Link](https://www.tandfonline.com/doi/full/10.1080/10253890.2020.1864319)  
    [This research article showed the importance of sex in studying the effects of chronic stress exposure]
-{: start="16" reversed="reversed" }
+{: start="17" reversed="reversed" }
 
-## Reviews, commentaries & book chapters [6 total]
+## Reviews, commentaries & book chapters [7 total]
+1. **Bordes**, Ricci, Stont, Bittar, Beyeler (2027) Chapter 17. Decoding Anxiety Circuits by Integrating Behavioral Assays with Neural Recordings. *Psychiatric Vulnerability, and Mood and Anxiety Disorders*, In press. [Link]()
 
 1. Bittar, **Bordes**, Nicolas, Calhoon, Beyeler (2025) Chapter 30. Pre-Clinical Models of Emotional Dysregulations. *Handbook of Human Affective Neuroscience, 2nd edition* — [Link](https://www.cambridge.org/core/books/abs/cambridge-handbook-of-human-affective-neuroscience/preclinical-models-of-emotional-dysregulations-in-animals/11E422034B11BA423A077A1D1FDE7DC0)
 
@@ -93,7 +97,7 @@ PEER-REVIEWED PUBLICATIONS: 21 ARTICLES
 
 1. von Mücke-Heim, Urbina-Treviño, **Bordes**, Ries, Schmidt, Deussing (2023) Introducing a depression-like syndrome for translational neuropsychiatry: a plea for taxonomical validity and improved comparability between humans and mice. *Molecular Psychiatry* — [Link](https://www.nature.com/articles/s41380-022-01762-w)  
    [This review highlights the difficulties in translating preclinical stress models to clinical settings, emphasizing the need for advanced computational tools and better alignment with clinical symptoms. This is relevant to the current research proposal, as similar issues affect preclinical models of anxiety disorders]
-{: start="6" reversed="reversed" }
+{: start="7" reversed="reversed" }
 
 {% endcapture %}
 
